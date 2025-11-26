@@ -141,6 +141,266 @@ This experiment does not imply that the Quran is "codes", but rather reveals —
 
 **ملاحظة:** المفتاح **31×6** تم اكتشافه من بنية سورة الرحمن (31 تكرار لـ "بأي آلاء ربكما تكذبان"). هذا ليس اعتباطياً — إنه مدمج في القرآن نفسه.
 
+---
+
+## 📐 Detailed Calculation Method | طريقة الحساب التفصيلية
+
+**English:**
+
+Here is the exact calculation method applied in Rahman-Key (as implemented in `quran_hearts.py`), step by step, without any interpretation or bias:
+
+### 1. Source of Verse Counts
+
+We use verse counts according to **Hafs narration from Asim** (Uthmanic script, printed in King Fahd Complex, and used in tanzil.net and quran.com).
+
+**Examples:**
+- Al-Fatiha: 7 verses
+- Al-Baqarah: 286 verses
+- Al-Ikhlas: 4 verses
+- Ar-Rahman: 78 verses
+- An-Nas: 6 verses
+
+✅ These numbers are **fixed in the project** — stored in the code, not calculated dynamically.
+
+### 2. Converting Verse Number to Binary (6 bits)
+
+For each verse with sequential number within the Surah: 1, 2, 3, ..., N
+
+We convert each number to 6-bit binary representation, with leading zeros to fill the width.
+
+```python
+def to_6bit(n):
+    return format(n, '06b')   # Example: 1 → '000001', 5 → '000101'
+```
+
+**Conversion Table:**
+
+| Verse Number | 6-bit Binary |
+|-------------|--------------|
+| 1           | 000001       |
+| 2           | 000010       |
+| 3           | 000011       |
+| 4           | 000100       |
+| ...         | ...          |
+| 31          | 011111       |
+| 32          | 100000       |
+| 63          | 111111       |
+
+⚠️ **Note:** We use 6 bits (not 7), because 6 bits = 64 values, which covers the largest Surah (Al-Baqarah: 286) when limited to the first 31 verses.
+
+### 3. Building the Matrix (31 rows × 6 columns)
+
+**a. If the Surah is longer than 31 verses** (e.g., Al-Baqarah: 286):
+→ We take **only the first 31 verses**.
+
+Matrix = [to_6bit(1), to_6bit(2), ..., to_6bit(31)]
+
+**b. If the Surah is shorter than or equal to 31 verses** (e.g., Al-Ikhlas: 4):
+→ We **repeat the verse sequence** until we reach 31 rows.
+
+**Algorithm:**
+```python
+rows = []
+verse_numbers = list(range(1, verse_count + 1))  # [1, 2, 3, 4] for Al-Ikhlas
+while len(rows) < 31:
+    for v in verse_numbers:
+        if len(rows) < 31:
+            rows.append(to_6bit(v))
+        else:
+            break
+```
+
+**Example: Al-Ikhlas (4 verses)**
+→ Sequence: 1,2,3,4, 1,2,3,4, 1,2,3,4, ... (7 times = 28) + 1,2,3 → Total: 31.
+
+**Resulting Matrix (first 8 rows):**
+```
+000001  ← 1  
+000010  ← 2  
+000011  ← 3  
+000100  ← 4  
+000001  ← 1  
+000010  ← 2  
+000011  ← 3  
+000100  ← 4  
+...
+```
+
+### 4. Drawing the Bitmap
+
+Each bit = one pixel.
+
+- `'1'` → black pixel
+- `'0'` → white pixel
+
+**Pixel Order:**
+- Row 0 = first row in matrix
+- Column 0 = first bit (leftmost in string) ← MSB first
+
+**Example:** `'000001'` = 5 zeros (white) + 1 one (black) → black pixel at rightmost position.
+
+✅ This order (MSB → left, LSB → right) is standard in binary number representation and ensures that larger values appear in left columns.
+
+### 5. No Manual Modifications
+
+- ❌ No rotation
+- ❌ No flipping
+- ❌ No deletion/addition of rows
+- ❌ No selection of "prettiest image" — each Surah is calculated once and saved as output.
+
+### 📊 Practical Example: Ar-Rahman (78 verses)
+
+Verse count: 78 > 31 → We take the first 31 verses.
+
+We generate: to_6bit(1) to to_6bit(31)
+
+**Matrix:**
+```
+000001  ← 1
+000010  ← 2
+000011  ← 3
+...
+011111  ← 31
+```
+
+When drawn → a symmetrical heart appears (because the sequence 1..31 in 6-bit representation generates a dense distribution in middle columns, with gradual decrease at edges — a known property of sequential binary numbers with fixed length).
+
+### 🔍 Why This Specific Method?
+
+Because it is:
+- **Simplest possible** (no encryption, no segmentation, no complex functions)
+- **Verifiable by hand** (you can calculate the first 5 rows of Al-Fatiha with pen and paper)
+- **Interpreter-independent** — the machine does exactly what you would do.
+
+---
+
+**العربية:**
+
+إليك طريقة حساب السور في مشروع Rahman-Key، كما طُبّقت فعليًّا في الكود (بدون أي اجتهاد أو تحيّز)، خطوة بخطوة:
+
+### 1. مصدر عدد الآيات
+
+نستخدم عدد الآيات وفق **رواية حفص عن عاصم** (الرسم العثماني، المطبوع في مجمع الملك فهد، والمستخدم في tanzil.net وquran.com).
+
+**أمثلة:**
+- الفاتحة: 7 آيات
+- البقرة: 286 آية
+- الإخلاص: 4 آيات
+- الرحمن: 78 آية
+- الناس: 6 آيات
+
+✅ هذه الأعداد **ثابتة في المشروع** — مدوّنة في الكود، ولا تُحسب ديناميكيًّا.
+
+### 2. تحويل رقم الآية إلى ثنائي (6 بتات)
+
+لكل آية رقم ترتيبي داخل السورة: 1, 2, 3, ..., N
+
+نحوّل كل رقم إلى تمثيل ثنائي 6 بتات، مع أصفار أولية لملء العرض.
+
+```python
+def to_6bit(n):
+    return format(n, '06b')   # مثال: 1 → '000001'، 5 → '000101'
+```
+
+**جدول التحويل:**
+
+| رقم الآية | ثنائي 6 بتات |
+|-----------|--------------|
+| 1         | 000001       |
+| 2         | 000010       |
+| 3         | 000011       |
+| 4         | 000100       |
+| ...       | ...          |
+| 31        | 011111       |
+| 32        | 100000       |
+| 63        | 111111       |
+
+⚠️ **ملاحظة:** لا نستخدم 7 بتات (حتى 127)، لأن 6 بتات = 64 قيمة، وتغطي أكبر سورة (البقرة: 286) عند الاقتصار على 31 آية.
+
+### 3. بناء المصفوفة (31 صفاً × 6 أعمدة)
+
+**أ. إذا كانت السورة أطول من 31 آية** (مثل البقرة: 286):
+→ نأخذ **أول 31 آية فقط**.
+
+المصفوفة = [to_6bit(1), to_6bit(2), ..., to_6bit(31)]
+
+**ب. إذا كانت السورة أقصر من أو تساوي 31 آية** (مثل الإخلاص: 4):
+→ نُكرّر **تسلسل الآيات** حتى نصل لـ31 سطرًا.
+
+**الخوارزمية:**
+```python
+rows = []
+verse_numbers = list(range(1, verse_count + 1))  # [1, 2, 3, 4] للإخلاص
+while len(rows) < 31:
+    for v in verse_numbers:
+        if len(rows) < 31:
+            rows.append(to_6bit(v))
+        else:
+            break
+```
+
+**مثال: سورة الإخلاص (4 آيات)**
+→ التسلسل: 1,2,3,4, 1,2,3,4, 1,2,3,4, … (7 مرات = 28) + 1,2,3 → المجموع: 31.
+
+**المصفوفة الناتجة (أول 8 صفوف):**
+```
+000001  ← 1  
+000010  ← 2  
+000011  ← 3  
+000100  ← 4  
+000001  ← 1  
+000010  ← 2  
+000011  ← 3  
+000100  ← 4  
+...
+```
+
+### 4. رسم الـbitmap
+
+كل بت = بكسل.
+
+- `'1'` ← بكسل أسود
+- `'0'` ← بكسل أبيض
+
+**ترتيب البكسلات:**
+- الصف 0 = أول سطر في المصفوفة
+- العمود 0 = أول بت (أقصى اليسار في السلسلة) ← MSB أولاً
+
+**مثال:** `'000001'` = 5 أصفار (أبيض) + 1 واحد (أسود) → بكسل أسود في أقصى اليمين.
+
+✅ هذا الترتيب (MSB → أيسر، LSB → أيمن) هو المعيار في تمثيل الأرقام الثنائية، ويضمن أن القيم الأكبر تظهر في الأعمدة اليسرى.
+
+### 5. لا يوجد أي تعديل يدوي
+
+- ❌ لا تدوير
+- ❌ لا عكس
+- ❌ لا حذف/إضافة صفوف
+- ❌ لا اختيار "أجمل صورة" — كل سورة تُحسب مرة واحدة، وتُحفظ كما خرجت.
+
+### 📊 مثال تطبيقي: سورة الرحمن (78 آية)
+
+عدد الآيات: 78 > 31 → نأخذ أول 31 آية.
+
+نولّد: to_6bit(1) إلى to_6bit(31)
+
+**المصفوفة:**
+```
+000001  ← 1
+000010  ← 2
+000011  ← 3
+...
+011111  ← 31
+```
+
+عند رسمها → يظهر قلب متناظر (لأن تسلسل 1..31 في 6 بتات يولّد توزيعًا كثيفًا في الأعمدة الوسطى، مع تناقص تدريجي للأطراف — وهي خاصية معروفة في تمثيل الأرقام الثنائية المتسلسلة ذات الطول الثابت).
+
+### 🔍 لماذا هذه الطريقة بالذات؟
+
+لأنها:
+- **أبسط ما يمكن** (لا تشفير، لا تجزئة، لا دوال معقدة)
+- **قابلة للتحقق باليد** (يمكنك حساب أول 5 صفوف للفاتحة بقلم وورقة)
+- **لا تعتمد على مفسّر** — الآلة تفعل نفس ما تفعله أنت.
+
 **Example | مثال:**
 - Al-Fatiha has 7 verses → sequence: [1,2,3,4,5,6,7] | الفاتحة لها 7 آيات → التسلسل: [1,2,3,4,5,6,7]
 - Repeat to get ≥31: [1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3] | كرر للحصول على ≥31
