@@ -22,6 +22,7 @@ This project does not aim to "prove" anything, but to empower the experimenter t
 
 ## ✅ What's Included | ما الموجود
 
+**English:**
 - ✅ Python code to generate bitmaps for any Surah
 - ✅ Complete Surah data (verse count for all 114 Surahs)
 - ✅ Pre-generated PNGs for all 114 Surahs (in `images/` directory)
@@ -29,20 +30,30 @@ This project does not aim to "prove" anything, but to empower the experimenter t
 - ✅ Jupyter notebook ready to run online
 - ✅ Pattern descriptions in `descriptions.json`
 
+**العربية:**
+- ✅ كود Python لتوليد الصور الثنائية لأي سورة
+- ✅ بيانات كاملة للسور (عدد آيات جميع السور الـ 114)
+- ✅ صور PNG مسبقة التوليد لجميع السور الـ 114 (في مجلد `images/`)
+- ✅ دليل استخدام بسيط
+- ✅ Jupyter notebook جاهز للتشغيل أونلاين
+- ✅ أوصاف الأنماط في `descriptions.json`
+
 ---
 
 ## 🚀 Quick Start | التشغيل السريع (10 ثواني)
 
-### Option 1: Run the Python Script
+### Option 1: Run the Python Script | الخيار 1: تشغيل سكريبت Python
 ```bash
 cd code
 python quran_hearts.py
 ```
 
-This will generate all 114 images automatically in the `images/` directory.
+**English:** This will generate all 114 images automatically in the `images/` directory.  
+**العربية:** سيتم توليد جميع الصور الـ 114 تلقائياً في مجلد `images/`.
 
-### Option 2: Use Jupyter Notebook
-Open `notebook.ipynb` and click **Run All** — that's it!
+### Option 2: Use Jupyter Notebook | الخيار 2: استخدام Jupyter Notebook
+**English:** Open `notebook.ipynb` and click **Run All** — that's it!  
+**العربية:** افتح `notebook.ipynb` واضغط **Run All** — هذا كل شيء!
 
 ---
 
@@ -58,7 +69,7 @@ This experiment does not imply that the Quran is "codes", but rather reveals —
 
 ## 🔬 Methodology | المنهجية
 
-For each Surah:
+**English - For each Surah:**
 1. Take the verse count (e.g., 7 for Al-Fatiha, 78 for Ar-Rahman)
 2. Create a sequence: 1, 2, 3, ..., verse_count
 3. Repeat the sequence until we have at least 31 rows
@@ -67,11 +78,20 @@ For each Surah:
 6. Create a 31×6 binary matrix
 7. Visualize as a bitmap image
 
-**Example:**
-- Al-Fatiha has 7 verses → sequence: [1,2,3,4,5,6,7]
-- Repeat to get ≥31: [1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3]
-- Take first 31: [1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3]
-- Convert to 6-bit binary → 31×6 matrix → bitmap
+**العربية - لكل سورة:**
+1. خذ عدد الآيات (مثلاً: 7 للفاتحة، 78 للرحمن)
+2. أنشئ تسلسلاً: 1، 2، 3، ...، عدد_الآيات
+3. كرر التسلسل حتى نحصل على 31 صف على الأقل
+4. خذ أول 31 صف فقط
+5. حوّل كل رقم (1-31) إلى تنسيق ثنائي 6 بتات
+6. أنشئ مصفوفة ثنائية 31×6
+7. اعرضها كصورة bitmap
+
+**Example | مثال:**
+- Al-Fatiha has 7 verses → sequence: [1,2,3,4,5,6,7] | الفاتحة لها 7 آيات → التسلسل: [1,2,3,4,5,6,7]
+- Repeat to get ≥31: [1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3] | كرر للحصول على ≥31
+- Take first 31: [1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3] | خذ أول 31
+- Convert to 6-bit binary → 31×6 matrix → bitmap | حوّل إلى ثنائي 6 بتات → مصفوفة 31×6 → bitmap
 
 ---
 
@@ -81,7 +101,8 @@ For each Surah:
 
 **Try it yourself – 100% open code – No manual image editing**
 
-All code is open source. No manual modifications to images. Everything is generated algorithmically.
+**English:** All code is open source. No manual modifications to images. Everything is generated algorithmically.  
+**العربية:** جميع الكود مفتوح المصدر. لا توجد تعديلات يدوية على الصور. كل شيء يتم توليده خوارزمياً.
 
 ---
 
@@ -94,11 +115,16 @@ Rahman-Key/
 ├── code/
 │   └── quran_hearts.py        (Main code)
 ├── images/
-│   └── (114 PNG images)       (Generated automatically)
+│   └── (114 PNG images)       (Generated automatically - binary bitmaps)
+├── Images/
+│   └── (114 PNG images + visual representations)  (Visual representations of Surah meanings with hearts)
 ├── descriptions.json          (Pattern descriptions)
 ├── notebook.ipynb             (Jupyter notebook)
 └── LICENSE                    (MIT License)
 ```
+
+**English:** The `Images/` folder contains visual representations of Surah meanings combined with the heart patterns, providing a richer visual context.  
+**العربية:** مجلد `Images/` يحتوي على تمثيلات بصرية لمعاني السور مدمجة مع أنماط القلوب، مما يوفر سياقاً بصرياً أغنى.
 
 ---
 
@@ -106,17 +132,26 @@ Rahman-Key/
 
 *[Placeholder for comparison image between Ar-Rahman bitmap and ❤️ emoji]*
 
-**Note:** A high-resolution comparison image between Ar-Rahman Surah's bitmap and the ❤️ emoji will be added here.
+**English:** A high-resolution comparison image between Ar-Rahman Surah's bitmap and the ❤️ emoji will be added here.  
+**العربية:** سيتم إضافة صورة مقارنة عالية الدقة بين bitmap سورة الرحمن وإيموجي ❤️ هنا.
 
 ---
 
 ## 📊 Results | النتائج
 
+**English:**  
 All 114 Surahs have been processed and their digital "hearts" are available in the `images/` directory.
 
 Each image is named: `001_Al-Fatiha.png`, `002_Al-Baqarah.png`, ..., `114_An-Nas.png`
 
 Pattern descriptions are stored in `descriptions.json`.
+
+**العربية:**  
+تمت معالجة جميع السور الـ 114 و"قلوبها" الرقمية متاحة في مجلد `images/`.
+
+كل صورة مسماة: `001_Al-Fatiha.png`, `002_Al-Baqarah.png`, ..., `114_An-Nas.png`
+
+أوصاف الأنماط مخزنة في `descriptions.json`.
 
 ---
 
@@ -136,9 +171,13 @@ MIT License - See `LICENSE` file for details.
 
 ## 🙏 Acknowledgments | شكر وتقدير
 
+**English:**  
 This is a digital exploration project. The methodology is reproducible and open for anyone to verify and extend.
+
+**العربية:**  
+هذا مشروع استكشاف رقمي. المنهجية قابلة للتكرار ومفتوحة لأي شخص للتحقق والتوسع.
 
 ---
 
-**🌙 Rahman-Key** — A window into numerical patterns, if they exist.
+**🌙 Rahman-Key** — A window into numerical patterns, if they exist. | نافذة على الأنماط العددية، إن وُجدت.
 
