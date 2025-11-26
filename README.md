@@ -94,11 +94,15 @@ Rahman-Key/
 ├── code/
 │   └── quran_hearts.py        (Main code)
 ├── images/
-│   └── (114 PNG images)       (Generated automatically)
+│   └── (114 PNG images)       (Generated automatically - binary bitmaps)
+├── Images/
+│   └── (114 PNG images + visual representations)  (Visual representations of Surah meanings with hearts)
 ├── descriptions.json          (Pattern descriptions)
 ├── notebook.ipynb             (Jupyter notebook)
 └── LICENSE                    (MIT License)
 ```
+
+**Note:** The `Images/` folder contains visual representations of Surah meanings combined with the heart patterns, providing a richer visual context.
 
 ---
 
