@@ -254,6 +254,8 @@ An experimental analysis file `surah_revelation_order.csv` contains the patterns
 
 **Note:** This is purely experimental. We're exploring whether chronological order reveals any hidden structure. The data is open for anyone to analyze and interpret.
 
+**See also:** `REVELATION_ORDER_README.md` for detailed documentation.
+
 **العربية:**
 
 ملف تحليل تجريبي `surah_revelation_order.csv` يحتوي على الأنماط المولدة عند تطبيق المفتاح 31×6 على السور **مرتبة حسب ترتيب نزولها** (وليس ترتيبها الحالي في القرآن).
@@ -266,6 +268,8 @@ An experimental analysis file `surah_revelation_order.csv` contains the patterns
 - **سورة الرحمن** (ترتيب النزول #97) تظهر **"ذروة التكامل"** — قلب نقي، متماثل بالكامل مع 31 تكراراً
 
 **ملاحظة:** هذا تجريبي بحت. نستكشف ما إذا كان الترتيب الزمني يكشف أي بنية خفية. البيانات مفتوحة لأي شخص للتحليل والتفسير.
+
+**انظر أيضاً:** `REVELATION_ORDER_README.md` للتوثيق التفصيلي.
 
 ---
 
