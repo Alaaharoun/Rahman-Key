@@ -202,6 +202,7 @@ Rahman-Key/
 ├── Images/
 │   └── (114 PNG images + visual representations)  (Visual representations of Surah meanings with hearts)
 ├── descriptions.json          (Pattern descriptions)
+├── surah_revelation_order.csv (Revelation order analysis - experimental)
 ├── notebook.ipynb             (Jupyter notebook)
 └── LICENSE                    (MIT License)
 ```
@@ -235,6 +236,36 @@ Pattern descriptions are stored in `descriptions.json`.
 كل صورة مسماة: `001_Al-Fatiha.png`, `002_Al-Baqarah.png`, ..., `114_An-Nas.png`
 
 أوصاف الأنماط مخزنة في `descriptions.json`.
+
+---
+
+## 📋 Revelation Order Analysis | تحليل ترتيب النزول
+
+**English:**
+
+An experimental analysis file `surah_revelation_order.csv` contains the patterns generated when applying the 31×6 key to Surahs **ordered by their revelation sequence** (not their current order in the Quran).
+
+**Purpose:** To explore whether there's a meaningful pattern or evolution in the heart shapes when viewed chronologically — an experiment, nothing more.
+
+**Observations:**
+- Early revelations show various patterns (hearts, symbols, abstract shapes)
+- Some Surahs show "Complete" hearts, others show "No heart" or "Primitive" patterns
+- **Surah Ar-Rahman** (revelation order #97) shows the **"Peak of completion"** — a pure, fully symmetrical heart with 31 repetitions
+
+**Note:** This is purely experimental. We're exploring whether chronological order reveals any hidden structure. The data is open for anyone to analyze and interpret.
+
+**العربية:**
+
+ملف تحليل تجريبي `surah_revelation_order.csv` يحتوي على الأنماط المولدة عند تطبيق المفتاح 31×6 على السور **مرتبة حسب ترتيب نزولها** (وليس ترتيبها الحالي في القرآن).
+
+**الهدف:** استكشاف ما إذا كان هناك نمط ذو معنى أو تطور في أشكال القلوب عند النظر إليها زمنياً — تجربة لا أكثر.
+
+**الملاحظات:**
+- النزولات المبكرة تظهر أنماطاً متنوعة (قلوب، رموز، أشكال مجردة)
+- بعض السور تظهر قلوباً "متكاملة"، وأخرى تظهر أنماطاً "بدائية" أو "لا قلب"
+- **سورة الرحمن** (ترتيب النزول #97) تظهر **"ذروة التكامل"** — قلب نقي، متماثل بالكامل مع 31 تكراراً
+
+**ملاحظة:** هذا تجريبي بحت. نستكشف ما إذا كان الترتيب الزمني يكشف أي بنية خفية. البيانات مفتوحة لأي شخص للتحليل والتفسير.
 
 ---
 
