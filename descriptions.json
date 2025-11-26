@@ -1,0 +1,572 @@
+{
+  "Al-Fatiha": {
+    "surah_number": 1,
+    "verse_count": 7,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Baqarah": {
+    "surah_number": 2,
+    "verse_count": 286,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ali 'Imran": {
+    "surah_number": 3,
+    "verse_count": 200,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "An-Nisa": {
+    "surah_number": 4,
+    "verse_count": 176,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Ma'idah": {
+    "surah_number": 5,
+    "verse_count": 120,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-An'am": {
+    "surah_number": 6,
+    "verse_count": 165,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-A'raf": {
+    "surah_number": 7,
+    "verse_count": 206,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Anfal": {
+    "surah_number": 8,
+    "verse_count": 75,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "At-Tawbah": {
+    "surah_number": 9,
+    "verse_count": 129,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Yunus": {
+    "surah_number": 10,
+    "verse_count": 109,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Hud": {
+    "surah_number": 11,
+    "verse_count": 123,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Yusuf": {
+    "surah_number": 12,
+    "verse_count": 111,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ar-Ra'd": {
+    "surah_number": 13,
+    "verse_count": 43,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ibrahim": {
+    "surah_number": 14,
+    "verse_count": 52,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Hijr": {
+    "surah_number": 15,
+    "verse_count": 99,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "An-Nahl": {
+    "surah_number": 16,
+    "verse_count": 128,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Isra": {
+    "surah_number": 17,
+    "verse_count": 111,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Kahf": {
+    "surah_number": 18,
+    "verse_count": 110,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Maryam": {
+    "surah_number": 19,
+    "verse_count": 98,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ta-Ha": {
+    "surah_number": 20,
+    "verse_count": 135,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Anbiya": {
+    "surah_number": 21,
+    "verse_count": 112,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Hajj": {
+    "surah_number": 22,
+    "verse_count": 78,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Mu'minun": {
+    "surah_number": 23,
+    "verse_count": 118,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "An-Nur": {
+    "surah_number": 24,
+    "verse_count": 64,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Furqan": {
+    "surah_number": 25,
+    "verse_count": 77,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ash-Shu'ara": {
+    "surah_number": 26,
+    "verse_count": 227,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "An-Naml": {
+    "surah_number": 27,
+    "verse_count": 93,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Qasas": {
+    "surah_number": 28,
+    "verse_count": 88,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Ankabut": {
+    "surah_number": 29,
+    "verse_count": 69,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ar-Rum": {
+    "surah_number": 30,
+    "verse_count": 60,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Luqman": {
+    "surah_number": 31,
+    "verse_count": 34,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "As-Sajdah": {
+    "surah_number": 32,
+    "verse_count": 30,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Ahzab": {
+    "surah_number": 33,
+    "verse_count": 73,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Saba": {
+    "surah_number": 34,
+    "verse_count": 54,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Fatir": {
+    "surah_number": 35,
+    "verse_count": 45,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ya-Sin": {
+    "surah_number": 36,
+    "verse_count": 83,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "As-Saffat": {
+    "surah_number": 37,
+    "verse_count": 182,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Sad": {
+    "surah_number": 38,
+    "verse_count": 88,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Az-Zumar": {
+    "surah_number": 39,
+    "verse_count": 75,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ghafir": {
+    "surah_number": 40,
+    "verse_count": 85,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Fussilat": {
+    "surah_number": 41,
+    "verse_count": 54,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ash-Shura": {
+    "surah_number": 42,
+    "verse_count": 53,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Az-Zukhruf": {
+    "surah_number": 43,
+    "verse_count": 89,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ad-Dukhan": {
+    "surah_number": 44,
+    "verse_count": 59,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Jathiyah": {
+    "surah_number": 45,
+    "verse_count": 37,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Ahqaf": {
+    "surah_number": 46,
+    "verse_count": 35,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Muhammad": {
+    "surah_number": 47,
+    "verse_count": 38,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Fath": {
+    "surah_number": 48,
+    "verse_count": 29,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Hujurat": {
+    "surah_number": 49,
+    "verse_count": 18,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Qaf": {
+    "surah_number": 50,
+    "verse_count": 45,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Adh-Dhariyat": {
+    "surah_number": 51,
+    "verse_count": 60,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "At-Tur": {
+    "surah_number": 52,
+    "verse_count": 49,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "An-Najm": {
+    "surah_number": 53,
+    "verse_count": 62,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Qamar": {
+    "surah_number": 54,
+    "verse_count": 55,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Ar-Rahman": {
+    "surah_number": 55,
+    "verse_count": 78,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Waqi'ah": {
+    "surah_number": 56,
+    "verse_count": 96,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Hadid": {
+    "surah_number": 57,
+    "verse_count": 29,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Mujadila": {
+    "surah_number": 58,
+    "verse_count": 22,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Hashr": {
+    "surah_number": 59,
+    "verse_count": 24,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Mumtahanah": {
+    "surah_number": 60,
+    "verse_count": 13,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "As-Saff": {
+    "surah_number": 61,
+    "verse_count": 14,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Jumu'ah": {
+    "surah_number": 62,
+    "verse_count": 11,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Munafiqun": {
+    "surah_number": 63,
+    "verse_count": 11,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "At-Taghabun": {
+    "surah_number": 64,
+    "verse_count": 18,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "At-Talaq": {
+    "surah_number": 65,
+    "verse_count": 12,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "At-Tahrim": {
+    "surah_number": 66,
+    "verse_count": 12,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Mulk": {
+    "surah_number": 67,
+    "verse_count": 30,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Qalam": {
+    "surah_number": 68,
+    "verse_count": 52,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Haqqah": {
+    "surah_number": 69,
+    "verse_count": 52,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Ma'arij": {
+    "surah_number": 70,
+    "verse_count": 44,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Nuh": {
+    "surah_number": 71,
+    "verse_count": 28,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Jinn": {
+    "surah_number": 72,
+    "verse_count": 28,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Muzzammil": {
+    "surah_number": 73,
+    "verse_count": 20,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Muddaththir": {
+    "surah_number": 74,
+    "verse_count": 56,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Qiyamah": {
+    "surah_number": 75,
+    "verse_count": 40,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Insan": {
+    "surah_number": 76,
+    "verse_count": 31,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Mursalat": {
+    "surah_number": 77,
+    "verse_count": 50,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "An-Naba": {
+    "surah_number": 78,
+    "verse_count": 40,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "An-Nazi'at": {
+    "surah_number": 79,
+    "verse_count": 46,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Abasa": {
+    "surah_number": 80,
+    "verse_count": 42,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "At-Takwir": {
+    "surah_number": 81,
+    "verse_count": 29,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Infitar": {
+    "surah_number": 82,
+    "verse_count": 19,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Mutaffifin": {
+    "surah_number": 83,
+    "verse_count": 36,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Inshiqaq": {
+    "surah_number": 84,
+    "verse_count": 25,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Buruj": {
+    "surah_number": 85,
+    "verse_count": 22,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "At-Tariq": {
+    "surah_number": 86,
+    "verse_count": 17,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-A'la": {
+    "surah_number": 87,
+    "verse_count": 19,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Ghashiyah": {
+    "surah_number": 88,
+    "verse_count": 26,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Fajr": {
+    "surah_number": 89,
+    "verse_count": 30,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Balad": {
+    "surah_number": 90,
+    "verse_count": 20,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Ash-Shams": {
+    "surah_number": 91,
+    "verse_count": 15,
+    "pattern_description": "Heart shape leaning right"
+  },
+  "Al-Layl": {
+    "surah_number": 92,
+    "verse_count": 21,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Ad-Duha": {
+    "surah_number": 93,
+    "verse_count": 11,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Ash-Sharh": {
+    "surah_number": 94,
+    "verse_count": 8,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "At-Tin": {
+    "surah_number": 95,
+    "verse_count": 8,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Alaq": {
+    "surah_number": 96,
+    "verse_count": 19,
+    "pattern_description": "Heart shape with central focus"
+  },
+  "Al-Qadr": {
+    "surah_number": 97,
+    "verse_count": 5,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Bayyinah": {
+    "surah_number": 98,
+    "verse_count": 8,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Az-Zalzalah": {
+    "surah_number": 99,
+    "verse_count": 8,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Adiyat": {
+    "surah_number": 100,
+    "verse_count": 11,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Qari'ah": {
+    "surah_number": 101,
+    "verse_count": 11,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "At-Takathur": {
+    "surah_number": 102,
+    "verse_count": 8,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Asr": {
+    "surah_number": 103,
+    "verse_count": 3,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Humazah": {
+    "surah_number": 104,
+    "verse_count": 9,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Fil": {
+    "surah_number": 105,
+    "verse_count": 5,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Quraysh": {
+    "surah_number": 106,
+    "verse_count": 4,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Ma'un": {
+    "surah_number": 107,
+    "verse_count": 7,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Kawthar": {
+    "surah_number": 108,
+    "verse_count": 3,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Kafirun": {
+    "surah_number": 109,
+    "verse_count": 6,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "An-Nasr": {
+    "surah_number": 110,
+    "verse_count": 3,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Masad": {
+    "surah_number": 111,
+    "verse_count": 5,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Ikhlas": {
+    "surah_number": 112,
+    "verse_count": 4,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "Al-Falaq": {
+    "surah_number": 113,
+    "verse_count": 5,
+    "pattern_description": "Sparse pattern with scattered points"
+  },
+  "An-Nas": {
+    "surah_number": 114,
+    "verse_count": 6,
+    "pattern_description": "Sparse pattern with scattered points"
+  }
+}
