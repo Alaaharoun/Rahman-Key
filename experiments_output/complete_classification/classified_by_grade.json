@@ -1,0 +1,690 @@
+{
+  "1": [
+    {
+      "surah": "Al-Fatiha",
+      "verses": 7,
+      "symmetry": 0.22043010752688172,
+      "reason": "Closed upper curve but open/asymmetrical bottom"
+    },
+    {
+      "surah": "Al-Baqarah",
+      "verses": 286,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ali 'Imran",
+      "verses": 200,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "An-Nisa",
+      "verses": 176,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Ma'idah",
+      "verses": 120,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-An'am",
+      "verses": 165,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-A'raf",
+      "verses": 206,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Anfal",
+      "verses": 75,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "At-Tawbah",
+      "verses": 129,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Yunus",
+      "verses": 109,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Hud",
+      "verses": 123,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Yusuf",
+      "verses": 111,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ar-Ra'd",
+      "verses": 43,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ibrahim",
+      "verses": 52,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Hijr",
+      "verses": 99,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "An-Nahl",
+      "verses": 128,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Isra",
+      "verses": 111,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Kahf",
+      "verses": 110,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Maryam",
+      "verses": 98,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ta-Ha",
+      "verses": 135,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Anbiya",
+      "verses": 112,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Hajj",
+      "verses": 78,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Mu'minun",
+      "verses": 118,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "An-Nur",
+      "verses": 64,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Furqan",
+      "verses": 77,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ash-Shu'ara",
+      "verses": 227,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "An-Naml",
+      "verses": 93,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Qasas",
+      "verses": 88,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Ankabut",
+      "verses": 69,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ar-Rum",
+      "verses": 60,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Luqman",
+      "verses": 34,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "As-Sajdah",
+      "verses": 30,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Ahzab",
+      "verses": 73,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Saba",
+      "verses": 54,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Fatir",
+      "verses": 45,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ya-Sin",
+      "verses": 83,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "As-Saffat",
+      "verses": 182,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Sad",
+      "verses": 88,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Az-Zumar",
+      "verses": 75,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ghafir",
+      "verses": 85,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Fussilat",
+      "verses": 54,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ash-Shura",
+      "verses": 53,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Az-Zukhruf",
+      "verses": 89,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ad-Dukhan",
+      "verses": 59,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Jathiyah",
+      "verses": 37,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Ahqaf",
+      "verses": 35,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Muhammad",
+      "verses": 38,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Fath",
+      "verses": 29,
+      "symmetry": 0.23655913978494625,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Hujurat",
+      "verses": 18,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Qaf",
+      "verses": 45,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Adh-Dhariyat",
+      "verses": 60,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "At-Tur",
+      "verses": 49,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "An-Najm",
+      "verses": 62,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Qamar",
+      "verses": 55,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ar-Rahman",
+      "verses": 78,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Waqi'ah",
+      "verses": 96,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Hadid",
+      "verses": 29,
+      "symmetry": 0.23655913978494625,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Mujadila",
+      "verses": 22,
+      "symmetry": 0.23655913978494625,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Hashr",
+      "verses": 24,
+      "symmetry": 0.23118279569892472,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Mumtahanah",
+      "verses": 13,
+      "symmetry": 0.23655913978494625,
+      "reason": "Closed upper curve but open/asymmetrical bottom"
+    },
+    {
+      "surah": "As-Saff",
+      "verses": 14,
+      "symmetry": 0.24193548387096775,
+      "reason": "Closed upper curve but open/asymmetrical bottom"
+    },
+    {
+      "surah": "At-Taghabun",
+      "verses": 18,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "At-Talaq",
+      "verses": 12,
+      "symmetry": 0.22043010752688172,
+      "reason": "Closed upper curve but open/asymmetrical bottom"
+    },
+    {
+      "surah": "At-Tahrim",
+      "verses": 12,
+      "symmetry": 0.22043010752688172,
+      "reason": "Closed upper curve but open/asymmetrical bottom"
+    },
+    {
+      "surah": "Al-Mulk",
+      "verses": 30,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Qalam",
+      "verses": 52,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Haqqah",
+      "verses": 52,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Ma'arij",
+      "verses": 44,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Nuh",
+      "verses": 28,
+      "symmetry": 0.23655913978494625,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Jinn",
+      "verses": 28,
+      "symmetry": 0.23655913978494625,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Muzzammil",
+      "verses": 20,
+      "symmetry": 0.23118279569892472,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Muddaththir",
+      "verses": 56,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Qiyamah",
+      "verses": 40,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Insan",
+      "verses": 31,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Mursalat",
+      "verses": 50,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "An-Naba",
+      "verses": 40,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "An-Nazi'at",
+      "verses": 46,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Abasa",
+      "verses": 42,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "At-Takwir",
+      "verses": 29,
+      "symmetry": 0.23655913978494625,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Infitar",
+      "verses": 19,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Mutaffifin",
+      "verses": 36,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Inshiqaq",
+      "verses": 25,
+      "symmetry": 0.23118279569892472,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Buruj",
+      "verses": 22,
+      "symmetry": 0.23655913978494625,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "At-Tariq",
+      "verses": 17,
+      "symmetry": 0.23655913978494625,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-A'la",
+      "verses": 19,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Ghashiyah",
+      "verses": 26,
+      "symmetry": 0.23655913978494625,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Fajr",
+      "verses": 30,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Balad",
+      "verses": 20,
+      "symmetry": 0.23118279569892472,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ash-Shams",
+      "verses": 15,
+      "symmetry": 0.23655913978494625,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Layl",
+      "verses": 21,
+      "symmetry": 0.23118279569892472,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Ash-Sharh",
+      "verses": 8,
+      "symmetry": 0.22580645161290322,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "At-Tin",
+      "verses": 8,
+      "symmetry": 0.22580645161290322,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Alaq",
+      "verses": 19,
+      "symmetry": 0.24193548387096775,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Qadr",
+      "verses": 5,
+      "symmetry": 0.26881720430107525,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Bayyinah",
+      "verses": 8,
+      "symmetry": 0.22580645161290322,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Az-Zalzalah",
+      "verses": 8,
+      "symmetry": 0.22580645161290322,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "At-Takathur",
+      "verses": 8,
+      "symmetry": 0.22580645161290322,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Asr",
+      "verses": 3,
+      "symmetry": 0.27956989247311825,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Humazah",
+      "verses": 9,
+      "symmetry": 0.23118279569892472,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Fil",
+      "verses": 5,
+      "symmetry": 0.26881720430107525,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Quraysh",
+      "verses": 4,
+      "symmetry": 0.2903225806451613,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Ma'un",
+      "verses": 7,
+      "symmetry": 0.22043010752688172,
+      "reason": "Closed upper curve but open/asymmetrical bottom"
+    },
+    {
+      "surah": "Al-Kawthar",
+      "verses": 3,
+      "symmetry": 0.27956989247311825,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Kafirun",
+      "verses": 6,
+      "symmetry": 0.25268817204301075,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "An-Nasr",
+      "verses": 3,
+      "symmetry": 0.27956989247311825,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Masad",
+      "verses": 5,
+      "symmetry": 0.26881720430107525,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Ikhlas",
+      "verses": 4,
+      "symmetry": 0.2903225806451613,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "Al-Falaq",
+      "verses": 5,
+      "symmetry": 0.26881720430107525,
+      "reason": "Heart-like shape with moderate symmetry"
+    },
+    {
+      "surah": "An-Nas",
+      "verses": 6,
+      "symmetry": 0.25268817204301075,
+      "reason": "Heart-like shape with moderate symmetry"
+    }
+  ],
+  "2": [
+    {
+      "surah": "Al-Jumu'ah",
+      "verses": 11,
+      "symmetry": 0.20430107526881722,
+      "reason": "Closed heart with simple internal symbol"
+    },
+    {
+      "surah": "Al-Munafiqun",
+      "verses": 11,
+      "symmetry": 0.20430107526881722,
+      "reason": "Closed heart with simple internal symbol"
+    },
+    {
+      "surah": "Ad-Duha",
+      "verses": 11,
+      "symmetry": 0.20430107526881722,
+      "reason": "Closed heart with simple internal symbol"
+    },
+    {
+      "surah": "Al-Adiyat",
+      "verses": 11,
+      "symmetry": 0.20430107526881722,
+      "reason": "Closed heart with simple internal symbol"
+    },
+    {
+      "surah": "Al-Qari'ah",
+      "verses": 11,
+      "symmetry": 0.20430107526881722,
+      "reason": "Closed heart with simple internal symbol"
+    }
+  ]
+}
