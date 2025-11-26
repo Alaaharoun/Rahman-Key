@@ -16,6 +16,11 @@ This directory contains advanced experiments applying the Rahman Key (31×6) met
 | `hearts_in_quran.py` | Heart verses (57 verses) | Heart + Open lock + Key |
 | `ya_ayyuhal_ladhina_amanu.py` | "O Believers" verses (88) | Heart + Raised hands + Halo |
 | `basmalah_114.py` | Basmalah (114 times) | Small heart pattern |
+| `direct_pattern_analyzer.py` | Pattern analysis tool | Algorithmic pattern detection |
+| `detailed_pattern_analyzer.py` | Advanced pattern analysis | Heart, Kaaba, "هو" detection |
+| `advanced_symbol_detector.py` | Symbol detection with rotations | Multi-orientation analysis |
+| `final_pattern_report.py` | Final analysis report | Complete pattern report |
+| `verify_methodology.py` | Methodology verification | Ensures consistency |
 
 ---
 
@@ -36,6 +41,16 @@ python basmalah_114.py
 ```bash
 cd experiments
 python names_of_allah.py
+```
+
+### Run Pattern Analysis | تشغيل تحليل الأنماط
+
+```bash
+cd experiments
+python direct_pattern_analyzer.py        # Basic analysis
+python detailed_pattern_analyzer.py      # Advanced analysis
+python advanced_symbol_detector.py      # Symbol detection
+python final_pattern_report.py          # Final report
 ```
 
 ---
