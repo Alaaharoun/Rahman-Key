@@ -26,3 +26,6 @@ Thumbs.db
 # images/*.png  # Keep PNG images
 # descriptions.json  # Keep descriptions
 
+# Private conversation file (not for public release)
+Conversation.txt
+

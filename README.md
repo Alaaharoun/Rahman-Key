@@ -102,8 +102,13 @@ python quran_hearts.py
 **العربية:** سيتم توليد جميع الصور الـ 114 تلقائياً في مجلد `images/`.
 
 ### Option 2: Use Jupyter Notebook | الخيار 2: استخدام Jupyter Notebook
-**English:** Open `notebook.ipynb` and click **Run All** — that's it!  
-**العربية:** افتح `notebook.ipynb` واضغط **Run All** — هذا كل شيء!
+**English:**  
+- **Basic:** Open `notebook.ipynb` and click **Run All** — generates 114 Surah hearts
+- **Advanced:** Open `experiments/advanced_experiments.ipynb` — generates advanced experiment images
+
+**العربية:**  
+- **الأساسي:** افتح `notebook.ipynb` واضغط **Run All** — يولد قلوب السور الـ 114
+- **المتقدم:** افتح `experiments/advanced_experiments.ipynb` — يولد صور التجارب المتقدمة
 
 ---
 
@@ -406,6 +411,32 @@ while len(rows) < 31:
 - Repeat to get ≥31: [1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3] | كرر للحصول على ≥31
 - Take first 31: [1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3,4,5,6,7,1,2,3] | خذ أول 31
 - Convert to 6-bit binary → 31×6 matrix → bitmap | حوّل إلى ثنائي 6 بتات → مصفوفة 31×6 → bitmap
+
+---
+
+## 🔬 Advanced Experiments | التجارب المتقدمة
+
+**English:**  
+Beyond the 114 Surahs, the Rahman Key (31×6) has been applied to other Quranic elements with remarkable results:
+
+- **99 Names of Allah** → Perfect heart + Alif + Crown + "هو"
+- **Heart Verses (57)** → Heart + Open lock + Key
+- **"O Believers" Verses (88)** → Heart + Raised hands + Halo
+- **Basmalah (114 times)** → Small heart pattern
+
+**See:** [`experiments/advanced_experiments.ipynb`](experiments/advanced_experiments.ipynb) for interactive notebook  
+**Documentation:** [`ADVANCED_DISCOVERIES.md`](ADVANCED_DISCOVERIES.md)
+
+**العربية:**  
+بجانب السور الـ 114، تم تطبيق مفتاح الرحمن (31×6) على عناصر قرآنية أخرى بنتائج ملحوظة:
+
+- **أسماء الله الحسنى (99)** → قلب مثالي + ألف + تاج + "هو"
+- **آيات القلب (57)** → قلب + قفل مفتوح + مفتاح
+- **آيات "يا أيها الذين آمنوا" (88)** → قلب + يدين مرفوعتين + هالة
+- **البسملة (114 مرة)** → نمط قلب صغير
+
+**انظر:** [`experiments/advanced_experiments.ipynb`](experiments/advanced_experiments.ipynb) للـ notebook التفاعلي  
+**التوثيق:** [`ADVANCED_DISCOVERIES.md`](ADVANCED_DISCOVERIES.md)
 
 ---
 
