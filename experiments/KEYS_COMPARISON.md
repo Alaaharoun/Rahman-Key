@@ -8,6 +8,24 @@ This document compares different keys used in the Rahman-Key project and what ea
 
 ---
 
+## 🔑 كيف استخرجنا المفاتيح؟ | How Did We Extract the Keys?
+
+**English:**  
+See [`HOW_WE_EXTRACTED_THE_KEYS.md`](HOW_WE_EXTRACTED_THE_KEYS.md) for detailed explanation.
+
+**Quick Summary:**
+- **31×6:** Discovered from Ar-Rahman (31 repetitions) → Sequence 1→31 → 6-bit binary → Heart
+- **Sub-Keys:** `(surah_num × ayah_count × revelation_order) % 256` → Variable matrix → Patterns
+
+**العربية:**  
+انظر [`HOW_WE_EXTRACTED_THE_KEYS.md`](HOW_WE_EXTRACTED_THE_KEYS.md) لشرح تفصيلي.
+
+**ملخص سريع:**
+- **31×6:** اكتشف من الرحمن (31 تكرار) → التسلسل 1→31 → ثنائي 6 بتات → قلب
+- **المفاتيح الفرعية:** `(رقم_السورة × عدد_الآيات × ترتيب_النزول) % 256` → مصفوفة متغيرة → أنماط
+
+---
+
 ## 📊 Keys Overview | نظرة عامة على المفاتيح
 
 | Key | Dimensions | Source | Status | Output |

@@ -8,6 +8,24 @@ This document provides the exact count of emojis that match the code detection f
 
 ---
 
+## 🔑 كيف استخرجنا المفاتيح؟ | How Did We Extract the Keys?
+
+**English:**  
+See [`HOW_WE_EXTRACTED_THE_KEYS.md`](HOW_WE_EXTRACTED_THE_KEYS.md) for detailed explanation of how we discovered and extracted both the main key (31×6) and sub-keys.
+
+**Quick Summary:**
+- **Main Key (31×6):** Discovered from Ar-Rahman (31 repetitions) → Sequence 1→31 → 6-bit binary → 31×6 matrix → Heart pattern
+- **Sub-Keys:** Calculated per Surah: `(surah_num × ayah_count × revelation_order) % 256` → Variable matrix → Pattern detection
+
+**العربية:**  
+انظر [`HOW_WE_EXTRACTED_THE_KEYS.md`](HOW_WE_EXTRACTED_THE_KEYS.md) لشرح تفصيلي لكيفية اكتشافنا واستخراجنا للمفتاح الرئيسي (31×6) والمفاتيح الفرعية.
+
+**ملخص سريع:**
+- **المفتاح الرئيسي (31×6):** اكتشف من الرحمن (31 تكرار) → التسلسل 1→31 → ثنائي 6 بتات → مصفوفة 31×6 → نمط قلب
+- **المفاتيح الفرعية:** محسوبة لكل سورة: `(رقم_السورة × عدد_الآيات × ترتيب_النزول) % 256` → مصفوفة متغيرة → اكتشاف الأنماط
+
+---
+
 ## 🎯 الإجابة المباشرة | Direct Answer
 
 ### المفتاح الرئيسي (31×6) | Main Key (31×6)

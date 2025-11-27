@@ -25,6 +25,25 @@ Different keys reveal different aspects of the Quran's structure. Each key extra
 **English:**  
 **Source:** Surah Ar-Rahman (31 repetitions of "بأي آلاء ربكما تكذبان")
 
+**How We Extracted It:**
+1. Observed: Ar-Rahman repeats the verse exactly **31 times**
+2. Hypothesis: Convert sequence 1→31 to binary and visualize
+3. Experiment: 1, 2, 3, ..., 31 → 6-bit binary → 31×6 matrix → **Perfect heart appeared** ❤️
+4. Application: Applied same method to all 114 Surahs → 95.6% produced hearts
+
+**Method:** Sequence 1→verse_count → repeat to ≥31 rows → take first 31 → 6-bit binary → 31×6 matrix
+
+**العربية:**  
+**المصدر:** سورة الرحمن (31 تكرار لـ "بأي آلاء ربكما تكذبان")
+
+**كيف استخرجناه:**
+1. الملاحظة: الرحمن تكرر الآية بالضبط **31 مرة**
+2. الفرضية: حوّل التسلسل 1→31 إلى ثنائي وعرضه
+3. التجربة: 1، 2، 3، ...، 31 → ثنائي 6 بتات → مصفوفة 31×6 → **ظهر قلب مثالي** ❤️
+4. التطبيق: طبقنا نفس الطريقة على جميع السور الـ114 → 95.6% أنتجت قلوب
+
+**الطريقة:** التسلسل 1→عدد_الآيات → كرّر إلى ≥31 صف → خذ أول 31 → ثنائي 6 بتات → مصفوفة 31×6
+
 **What We Extract:**
 - ✅ **Heart patterns** — 95.6% of Surahs (109 of 114)
 - ✅ **Symmetry scores** — Vertical and horizontal symmetry percentages
