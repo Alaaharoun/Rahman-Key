@@ -1,0 +1,1079 @@
+[
+  {
+    "type": "سورة",
+    "number": 1,
+    "name": "Al-Fatiha",
+    "verse_count": 7,
+    "columns": 1,
+    "columns_end": 6
+  },
+  {
+    "type": "سورة",
+    "number": 2,
+    "name": "Al-Baqarah",
+    "verse_count": 286,
+    "columns": 7,
+    "columns_end": 12
+  },
+  {
+    "type": "سورة",
+    "number": 3,
+    "name": "Ali 'Imran",
+    "verse_count": 200,
+    "columns": 13,
+    "columns_end": 18
+  },
+  {
+    "type": "سورة",
+    "number": 4,
+    "name": "An-Nisa",
+    "verse_count": 176,
+    "columns": 19,
+    "columns_end": 24
+  },
+  {
+    "type": "سورة",
+    "number": 5,
+    "name": "Al-Ma'idah",
+    "verse_count": 120,
+    "columns": 25,
+    "columns_end": 30
+  },
+  {
+    "type": "سورة",
+    "number": 6,
+    "name": "Al-An'am",
+    "verse_count": 165,
+    "columns": 31,
+    "columns_end": 36
+  },
+  {
+    "type": "سورة",
+    "number": 7,
+    "name": "Al-A'raf",
+    "verse_count": 206,
+    "columns": 37,
+    "columns_end": 42
+  },
+  {
+    "type": "سورة",
+    "number": 8,
+    "name": "Al-Anfal",
+    "verse_count": 75,
+    "columns": 43,
+    "columns_end": 48
+  },
+  {
+    "type": "سورة",
+    "number": 9,
+    "name": "At-Tawbah",
+    "verse_count": 129,
+    "columns": 49,
+    "columns_end": 54
+  },
+  {
+    "type": "سورة",
+    "number": 10,
+    "name": "Yunus",
+    "verse_count": 109,
+    "columns": 55,
+    "columns_end": 60
+  },
+  {
+    "type": "سورة",
+    "number": 11,
+    "name": "Hud",
+    "verse_count": 123,
+    "columns": 61,
+    "columns_end": 66
+  },
+  {
+    "type": "سورة",
+    "number": 12,
+    "name": "Yusuf",
+    "verse_count": 111,
+    "columns": 67,
+    "columns_end": 72
+  },
+  {
+    "type": "سورة",
+    "number": 13,
+    "name": "Ar-Ra'd",
+    "verse_count": 43,
+    "columns": 73,
+    "columns_end": 78
+  },
+  {
+    "type": "سورة",
+    "number": 14,
+    "name": "Ibrahim",
+    "verse_count": 52,
+    "columns": 79,
+    "columns_end": 84
+  },
+  {
+    "type": "سورة",
+    "number": 15,
+    "name": "Al-Hijr",
+    "verse_count": 99,
+    "columns": 85,
+    "columns_end": 90
+  },
+  {
+    "type": "سورة",
+    "number": 16,
+    "name": "An-Nahl",
+    "verse_count": 128,
+    "columns": 91,
+    "columns_end": 96
+  },
+  {
+    "type": "سورة",
+    "number": 17,
+    "name": "Al-Isra",
+    "verse_count": 111,
+    "columns": 97,
+    "columns_end": 102
+  },
+  {
+    "type": "سورة",
+    "number": 18,
+    "name": "Al-Kahf",
+    "verse_count": 110,
+    "columns": 103,
+    "columns_end": 108
+  },
+  {
+    "type": "سورة",
+    "number": 19,
+    "name": "Maryam",
+    "verse_count": 98,
+    "columns": 109,
+    "columns_end": 114
+  },
+  {
+    "type": "سورة",
+    "number": 20,
+    "name": "Ta-Ha",
+    "verse_count": 135,
+    "columns": 115,
+    "columns_end": 120
+  },
+  {
+    "type": "سورة",
+    "number": 21,
+    "name": "Al-Anbiya",
+    "verse_count": 112,
+    "columns": 121,
+    "columns_end": 126
+  },
+  {
+    "type": "سورة",
+    "number": 22,
+    "name": "Al-Hajj",
+    "verse_count": 78,
+    "columns": 127,
+    "columns_end": 132
+  },
+  {
+    "type": "سورة",
+    "number": 23,
+    "name": "Al-Mu'minun",
+    "verse_count": 118,
+    "columns": 133,
+    "columns_end": 138
+  },
+  {
+    "type": "سورة",
+    "number": 24,
+    "name": "An-Nur",
+    "verse_count": 64,
+    "columns": 139,
+    "columns_end": 144
+  },
+  {
+    "type": "سورة",
+    "number": 25,
+    "name": "Al-Furqan",
+    "verse_count": 77,
+    "columns": 145,
+    "columns_end": 150
+  },
+  {
+    "type": "سورة",
+    "number": 26,
+    "name": "Ash-Shu'ara",
+    "verse_count": 227,
+    "columns": 151,
+    "columns_end": 156
+  },
+  {
+    "type": "سورة",
+    "number": 27,
+    "name": "An-Naml",
+    "verse_count": 93,
+    "columns": 157,
+    "columns_end": 162
+  },
+  {
+    "type": "سورة",
+    "number": 28,
+    "name": "Al-Qasas",
+    "verse_count": 88,
+    "columns": 163,
+    "columns_end": 168
+  },
+  {
+    "type": "سورة",
+    "number": 29,
+    "name": "Al-Ankabut",
+    "verse_count": 69,
+    "columns": 169,
+    "columns_end": 174
+  },
+  {
+    "type": "سورة",
+    "number": 30,
+    "name": "Ar-Rum",
+    "verse_count": 60,
+    "columns": 175,
+    "columns_end": 180
+  },
+  {
+    "type": "سورة",
+    "number": 31,
+    "name": "Luqman",
+    "verse_count": 34,
+    "columns": 181,
+    "columns_end": 186
+  },
+  {
+    "type": "سورة",
+    "number": 32,
+    "name": "As-Sajdah",
+    "verse_count": 30,
+    "columns": 187,
+    "columns_end": 192
+  },
+  {
+    "type": "سورة",
+    "number": 33,
+    "name": "Al-Ahzab",
+    "verse_count": 73,
+    "columns": 193,
+    "columns_end": 198
+  },
+  {
+    "type": "سورة",
+    "number": 34,
+    "name": "Saba",
+    "verse_count": 54,
+    "columns": 199,
+    "columns_end": 204
+  },
+  {
+    "type": "سورة",
+    "number": 35,
+    "name": "Fatir",
+    "verse_count": 45,
+    "columns": 205,
+    "columns_end": 210
+  },
+  {
+    "type": "سورة",
+    "number": 36,
+    "name": "Ya-Sin",
+    "verse_count": 83,
+    "columns": 211,
+    "columns_end": 216
+  },
+  {
+    "type": "سورة",
+    "number": 37,
+    "name": "As-Saffat",
+    "verse_count": 182,
+    "columns": 217,
+    "columns_end": 222
+  },
+  {
+    "type": "سورة",
+    "number": 38,
+    "name": "Sad",
+    "verse_count": 88,
+    "columns": 223,
+    "columns_end": 228
+  },
+  {
+    "type": "سورة",
+    "number": 39,
+    "name": "Az-Zumar",
+    "verse_count": 75,
+    "columns": 229,
+    "columns_end": 234
+  },
+  {
+    "type": "سورة",
+    "number": 40,
+    "name": "Ghafir",
+    "verse_count": 85,
+    "columns": 235,
+    "columns_end": 240
+  },
+  {
+    "type": "سورة",
+    "number": 41,
+    "name": "Fussilat",
+    "verse_count": 54,
+    "columns": 241,
+    "columns_end": 246
+  },
+  {
+    "type": "سورة",
+    "number": 42,
+    "name": "Ash-Shura",
+    "verse_count": 53,
+    "columns": 247,
+    "columns_end": 252
+  },
+  {
+    "type": "سورة",
+    "number": 43,
+    "name": "Az-Zukhruf",
+    "verse_count": 89,
+    "columns": 253,
+    "columns_end": 258
+  },
+  {
+    "type": "سورة",
+    "number": 44,
+    "name": "Ad-Dukhan",
+    "verse_count": 59,
+    "columns": 259,
+    "columns_end": 264
+  },
+  {
+    "type": "سورة",
+    "number": 45,
+    "name": "Al-Jathiyah",
+    "verse_count": 37,
+    "columns": 265,
+    "columns_end": 270
+  },
+  {
+    "type": "سورة",
+    "number": 46,
+    "name": "Al-Ahqaf",
+    "verse_count": 35,
+    "columns": 271,
+    "columns_end": 276
+  },
+  {
+    "type": "سورة",
+    "number": 47,
+    "name": "Muhammad",
+    "verse_count": 38,
+    "columns": 277,
+    "columns_end": 282
+  },
+  {
+    "type": "سورة",
+    "number": 48,
+    "name": "Al-Fath",
+    "verse_count": 29,
+    "columns": 283,
+    "columns_end": 288
+  },
+  {
+    "type": "سورة",
+    "number": 49,
+    "name": "Al-Hujurat",
+    "verse_count": 18,
+    "columns": 289,
+    "columns_end": 294
+  },
+  {
+    "type": "سورة",
+    "number": 50,
+    "name": "Qaf",
+    "verse_count": 45,
+    "columns": 295,
+    "columns_end": 300
+  },
+  {
+    "type": "سورة",
+    "number": 51,
+    "name": "Adh-Dhariyat",
+    "verse_count": 60,
+    "columns": 301,
+    "columns_end": 306
+  },
+  {
+    "type": "سورة",
+    "number": 52,
+    "name": "At-Tur",
+    "verse_count": 49,
+    "columns": 307,
+    "columns_end": 312
+  },
+  {
+    "type": "سورة",
+    "number": 53,
+    "name": "An-Najm",
+    "verse_count": 62,
+    "columns": 313,
+    "columns_end": 318
+  },
+  {
+    "type": "سورة",
+    "number": 54,
+    "name": "Al-Qamar",
+    "verse_count": 55,
+    "columns": 319,
+    "columns_end": 324
+  },
+  {
+    "type": "سورة",
+    "number": 55,
+    "name": "Ar-Rahman",
+    "verse_count": 78,
+    "columns": 325,
+    "columns_end": 330
+  },
+  {
+    "type": "سورة",
+    "number": 56,
+    "name": "Al-Waqi'ah",
+    "verse_count": 96,
+    "columns": 331,
+    "columns_end": 336
+  },
+  {
+    "type": "سورة",
+    "number": 57,
+    "name": "Al-Hadid",
+    "verse_count": 29,
+    "columns": 337,
+    "columns_end": 342
+  },
+  {
+    "type": "سورة",
+    "number": 58,
+    "name": "Al-Mujadila",
+    "verse_count": 22,
+    "columns": 343,
+    "columns_end": 348
+  },
+  {
+    "type": "سورة",
+    "number": 59,
+    "name": "Al-Hashr",
+    "verse_count": 24,
+    "columns": 349,
+    "columns_end": 354
+  },
+  {
+    "type": "سورة",
+    "number": 60,
+    "name": "Al-Mumtahanah",
+    "verse_count": 13,
+    "columns": 355,
+    "columns_end": 360
+  },
+  {
+    "type": "سورة",
+    "number": 61,
+    "name": "As-Saff",
+    "verse_count": 14,
+    "columns": 361,
+    "columns_end": 366
+  },
+  {
+    "type": "سورة",
+    "number": 62,
+    "name": "Al-Jumu'ah",
+    "verse_count": 11,
+    "columns": 367,
+    "columns_end": 372
+  },
+  {
+    "type": "سورة",
+    "number": 63,
+    "name": "Al-Munafiqun",
+    "verse_count": 11,
+    "columns": 373,
+    "columns_end": 378
+  },
+  {
+    "type": "سورة",
+    "number": 64,
+    "name": "At-Taghabun",
+    "verse_count": 18,
+    "columns": 379,
+    "columns_end": 384
+  },
+  {
+    "type": "سورة",
+    "number": 65,
+    "name": "At-Talaq",
+    "verse_count": 12,
+    "columns": 385,
+    "columns_end": 390
+  },
+  {
+    "type": "سورة",
+    "number": 66,
+    "name": "At-Tahrim",
+    "verse_count": 12,
+    "columns": 391,
+    "columns_end": 396
+  },
+  {
+    "type": "سورة",
+    "number": 67,
+    "name": "Al-Mulk",
+    "verse_count": 30,
+    "columns": 397,
+    "columns_end": 402
+  },
+  {
+    "type": "سورة",
+    "number": 68,
+    "name": "Al-Qalam",
+    "verse_count": 52,
+    "columns": 403,
+    "columns_end": 408
+  },
+  {
+    "type": "سورة",
+    "number": 69,
+    "name": "Al-Haqqah",
+    "verse_count": 52,
+    "columns": 409,
+    "columns_end": 414
+  },
+  {
+    "type": "سورة",
+    "number": 70,
+    "name": "Al-Ma'arij",
+    "verse_count": 44,
+    "columns": 415,
+    "columns_end": 420
+  },
+  {
+    "type": "سورة",
+    "number": 71,
+    "name": "Nuh",
+    "verse_count": 28,
+    "columns": 421,
+    "columns_end": 426
+  },
+  {
+    "type": "سورة",
+    "number": 72,
+    "name": "Al-Jinn",
+    "verse_count": 28,
+    "columns": 427,
+    "columns_end": 432
+  },
+  {
+    "type": "سورة",
+    "number": 73,
+    "name": "Al-Muzzammil",
+    "verse_count": 20,
+    "columns": 433,
+    "columns_end": 438
+  },
+  {
+    "type": "سورة",
+    "number": 74,
+    "name": "Al-Muddaththir",
+    "verse_count": 56,
+    "columns": 439,
+    "columns_end": 444
+  },
+  {
+    "type": "سورة",
+    "number": 75,
+    "name": "Al-Qiyamah",
+    "verse_count": 40,
+    "columns": 445,
+    "columns_end": 450
+  },
+  {
+    "type": "سورة",
+    "number": 76,
+    "name": "Al-Insan",
+    "verse_count": 31,
+    "columns": 451,
+    "columns_end": 456
+  },
+  {
+    "type": "سورة",
+    "number": 77,
+    "name": "Al-Mursalat",
+    "verse_count": 50,
+    "columns": 457,
+    "columns_end": 462
+  },
+  {
+    "type": "سورة",
+    "number": 78,
+    "name": "An-Naba",
+    "verse_count": 40,
+    "columns": 463,
+    "columns_end": 468
+  },
+  {
+    "type": "سورة",
+    "number": 79,
+    "name": "An-Nazi'at",
+    "verse_count": 46,
+    "columns": 469,
+    "columns_end": 474
+  },
+  {
+    "type": "سورة",
+    "number": 80,
+    "name": "Abasa",
+    "verse_count": 42,
+    "columns": 475,
+    "columns_end": 480
+  },
+  {
+    "type": "سورة",
+    "number": 81,
+    "name": "At-Takwir",
+    "verse_count": 29,
+    "columns": 481,
+    "columns_end": 486
+  },
+  {
+    "type": "سورة",
+    "number": 82,
+    "name": "Al-Infitar",
+    "verse_count": 19,
+    "columns": 487,
+    "columns_end": 492
+  },
+  {
+    "type": "سورة",
+    "number": 83,
+    "name": "Al-Mutaffifin",
+    "verse_count": 36,
+    "columns": 493,
+    "columns_end": 498
+  },
+  {
+    "type": "سورة",
+    "number": 84,
+    "name": "Al-Inshiqaq",
+    "verse_count": 25,
+    "columns": 499,
+    "columns_end": 504
+  },
+  {
+    "type": "سورة",
+    "number": 85,
+    "name": "Al-Buruj",
+    "verse_count": 22,
+    "columns": 505,
+    "columns_end": 510
+  },
+  {
+    "type": "سورة",
+    "number": 86,
+    "name": "At-Tariq",
+    "verse_count": 17,
+    "columns": 511,
+    "columns_end": 516
+  },
+  {
+    "type": "سورة",
+    "number": 87,
+    "name": "Al-A'la",
+    "verse_count": 19,
+    "columns": 517,
+    "columns_end": 522
+  },
+  {
+    "type": "سورة",
+    "number": 88,
+    "name": "Al-Ghashiyah",
+    "verse_count": 26,
+    "columns": 523,
+    "columns_end": 528
+  },
+  {
+    "type": "سورة",
+    "number": 89,
+    "name": "Al-Fajr",
+    "verse_count": 30,
+    "columns": 529,
+    "columns_end": 534
+  },
+  {
+    "type": "سورة",
+    "number": 90,
+    "name": "Al-Balad",
+    "verse_count": 20,
+    "columns": 535,
+    "columns_end": 540
+  },
+  {
+    "type": "سورة",
+    "number": 91,
+    "name": "Ash-Shams",
+    "verse_count": 15,
+    "columns": 541,
+    "columns_end": 546
+  },
+  {
+    "type": "سورة",
+    "number": 92,
+    "name": "Al-Layl",
+    "verse_count": 21,
+    "columns": 547,
+    "columns_end": 552
+  },
+  {
+    "type": "سورة",
+    "number": 93,
+    "name": "Ad-Duha",
+    "verse_count": 11,
+    "columns": 553,
+    "columns_end": 558
+  },
+  {
+    "type": "سورة",
+    "number": 94,
+    "name": "Ash-Sharh",
+    "verse_count": 8,
+    "columns": 559,
+    "columns_end": 564
+  },
+  {
+    "type": "سورة",
+    "number": 95,
+    "name": "At-Tin",
+    "verse_count": 8,
+    "columns": 565,
+    "columns_end": 570
+  },
+  {
+    "type": "سورة",
+    "number": 96,
+    "name": "Al-Alaq",
+    "verse_count": 19,
+    "columns": 571,
+    "columns_end": 576
+  },
+  {
+    "type": "سورة",
+    "number": 97,
+    "name": "Al-Qadr",
+    "verse_count": 5,
+    "columns": 577,
+    "columns_end": 582
+  },
+  {
+    "type": "سورة",
+    "number": 98,
+    "name": "Al-Bayyinah",
+    "verse_count": 8,
+    "columns": 583,
+    "columns_end": 588
+  },
+  {
+    "type": "سورة",
+    "number": 99,
+    "name": "Az-Zalzalah",
+    "verse_count": 8,
+    "columns": 589,
+    "columns_end": 594
+  },
+  {
+    "type": "سورة",
+    "number": 100,
+    "name": "Al-Adiyat",
+    "verse_count": 11,
+    "columns": 595,
+    "columns_end": 600
+  },
+  {
+    "type": "سورة",
+    "number": 101,
+    "name": "Al-Qari'ah",
+    "verse_count": 11,
+    "columns": 601,
+    "columns_end": 606
+  },
+  {
+    "type": "سورة",
+    "number": 102,
+    "name": "At-Takathur",
+    "verse_count": 8,
+    "columns": 607,
+    "columns_end": 612
+  },
+  {
+    "type": "سورة",
+    "number": 103,
+    "name": "Al-Asr",
+    "verse_count": 3,
+    "columns": 613,
+    "columns_end": 618
+  },
+  {
+    "type": "سورة",
+    "number": 104,
+    "name": "Al-Humazah",
+    "verse_count": 9,
+    "columns": 619,
+    "columns_end": 624
+  },
+  {
+    "type": "سورة",
+    "number": 105,
+    "name": "Al-Fil",
+    "verse_count": 5,
+    "columns": 625,
+    "columns_end": 630
+  },
+  {
+    "type": "سورة",
+    "number": 106,
+    "name": "Quraysh",
+    "verse_count": 4,
+    "columns": 631,
+    "columns_end": 636
+  },
+  {
+    "type": "سورة",
+    "number": 107,
+    "name": "Al-Ma'un",
+    "verse_count": 7,
+    "columns": 637,
+    "columns_end": 642
+  },
+  {
+    "type": "سورة",
+    "number": 108,
+    "name": "Al-Kawthar",
+    "verse_count": 3,
+    "columns": 643,
+    "columns_end": 648
+  },
+  {
+    "type": "سورة",
+    "number": 109,
+    "name": "Al-Kafirun",
+    "verse_count": 6,
+    "columns": 649,
+    "columns_end": 654
+  },
+  {
+    "type": "سورة",
+    "number": 110,
+    "name": "An-Nasr",
+    "verse_count": 3,
+    "columns": 655,
+    "columns_end": 660
+  },
+  {
+    "type": "سورة",
+    "number": 111,
+    "name": "Al-Masad",
+    "verse_count": 5,
+    "columns": 661,
+    "columns_end": 666
+  },
+  {
+    "type": "سورة",
+    "number": 112,
+    "name": "Al-Ikhlas",
+    "verse_count": 4,
+    "columns": 667,
+    "columns_end": 672
+  },
+  {
+    "type": "سورة",
+    "number": 113,
+    "name": "Al-Falaq",
+    "verse_count": 5,
+    "columns": 673,
+    "columns_end": 678
+  },
+  {
+    "type": "سورة",
+    "number": 114,
+    "name": "An-Nas",
+    "verse_count": 6,
+    "columns": 679,
+    "columns_end": 684
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "الم",
+    "surahs": [
+      "Al-Baqarah",
+      "Ali 'Imran",
+      "Ta-Ha",
+      "Ash-Shu'ara",
+      "Ar-Rum",
+      "As-Sajdah"
+    ],
+    "columns": 685,
+    "columns_end": 690
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "الر",
+    "surahs": [
+      "Yunus",
+      "Hud",
+      "Yusuf",
+      "Ibrahim",
+      "Al-Hijr",
+      "Ar-Ra'd"
+    ],
+    "columns": 691,
+    "columns_end": 696
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "المص",
+    "surahs": [
+      "Al-A'raf"
+    ],
+    "columns": 697,
+    "columns_end": 702
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "طسم",
+    "surahs": [
+      "Ash-Shu'ara",
+      "Al-Qasas"
+    ],
+    "columns": 703,
+    "columns_end": 708
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "طه",
+    "surahs": [
+      "Ta-Ha"
+    ],
+    "columns": 709,
+    "columns_end": 714
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "يس",
+    "surahs": [
+      "Ya-Sin"
+    ],
+    "columns": 715,
+    "columns_end": 720
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "ص",
+    "surahs": [
+      "Sad"
+    ],
+    "columns": 721,
+    "columns_end": 726
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "حم",
+    "surahs": [
+      "Fussilat",
+      "Az-Zukhruf",
+      "Ad-Dukhan",
+      "Al-Jathiyah",
+      "Al-Ahqaf"
+    ],
+    "columns": 727,
+    "columns_end": 732
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "ق",
+    "surahs": [
+      "Qaf"
+    ],
+    "columns": 733,
+    "columns_end": 738
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "ن",
+    "surahs": [
+      "Al-Qalam"
+    ],
+    "columns": 739,
+    "columns_end": 744
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "كهيعص",
+    "surahs": [
+      "Maryam"
+    ],
+    "columns": 745,
+    "columns_end": 750
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "طس",
+    "surahs": [
+      "An-Naml"
+    ],
+    "columns": 751,
+    "columns_end": 756
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "المر",
+    "surahs": [
+      "Ar-Ra'd"
+    ],
+    "columns": 757,
+    "columns_end": 762
+  },
+  {
+    "type": "حروف مقطعة",
+    "letters": "حم عسق",
+    "surahs": [
+      "Ash-Shura"
+    ],
+    "columns": 763,
+    "columns_end": 768
+  },
+  {
+    "type": "أسماء الله",
+    "count": 99,
+    "columns": 769,
+    "columns_end": 774
+  },
+  {
+    "type": "آيات القلب",
+    "count": 57,
+    "columns": 775,
+    "columns_end": 780
+  },
+  {
+    "type": "آيات الإيمان",
+    "count": 88,
+    "columns": 781,
+    "columns_end": 786
+  },
+  {
+    "type": "ترتيب النزول",
+    "count": 114,
+    "columns": 787,
+    "columns_end": 792
+  }
+]
