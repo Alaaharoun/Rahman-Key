@@ -1,10 +1,10 @@
-# 🔍 تقرير اكتشاف مفاتيح السور الفرعية | Surah Sub-Keys Discovery Report
+# 🌙 نظام Rahman-Key: فن رقمي قرآني مولّد خوارزمياً | Rahman-Key System: Algorithmically Generated Quranic Digital Art
 
 **English:**  
-This report contains the discovery of sub-keys for each Surah in the Quran.
+143 unique patterns for Surahs and disconnected letters - algorithmically generated digital art.
 
 **العربية:**  
-هذا التقرير يحتوي على اكتشاف المفاتيح الفرعية لكل سورة في القرآن.
+143 نمط فريد للسور والحروف المقطعة - فن رقمي مولّد خوارزمياً.
 
 ---
 

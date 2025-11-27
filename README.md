@@ -1,5 +1,6 @@
-# 🌙 قلوب القرآن الرقمية – مفتاح سورة الرحمن
-# Digital Hearts of the Quran – The Rahman Key
+# 🌙 نظام Rahman-Key: فن رقمي قرآني مولّد خوارزمياً
+# Rahman-Key System: Algorithmically Generated Quranic Digital Art
+# 143 نمط فريد للسور والحروف المقطعة | 143 Unique Patterns for Surahs and Disconnected Letters
 
 📌 **لا توجد صورة واحدة تم تعديلها يدويًّا. كلها ناتجة عن التنفيذ الآلي للكود نفسه.**  
 📌 **No single image has been manually edited. All are the result of automatic code execution.**

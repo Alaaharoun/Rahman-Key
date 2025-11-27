@@ -1,11 +1,7 @@
 """
-اكتشاف مفاتيح السور الفرعية | Surah Sub-Keys Discovery
+نظام Rahman-Key: فن رقمي قرآني مولّد خوارزمياً | Rahman-Key System: Algorithmically Generated Quranic Digital Art
 
-الفرضية الثورية:
-"كل سورة تحتوي على مفتاحها الخاص لفك شيفرة القرآن!"
-
-مفتاح الرحمن (31×6) = المفتاح الأساسي
-لكن كل سورة = مفتاح فرعي خاص بها!
+143 نمط فريد للسور والحروف المقطعة | 143 Unique Patterns for Surahs and Disconnected Letters
 
 ⚠️ EXPERIMENTAL - This is exploratory research
 """
@@ -178,7 +174,8 @@ class SurahKeyDiscovery:
             }
         
         print("="*80)
-        print("🔍 اكتشاف مفاتيح السور الفرعية | Surah Sub-Keys Discovery")
+        print("🌙 نظام Rahman-Key: فن رقمي قرآني مولّد خوارزمياً")
+        print("Rahman-Key System: Algorithmically Generated Quranic Digital Art")
         print("="*80)
         print("\n⚠️ EXPERIMENTAL - This is exploratory research")
         print("⚠️ تجريبي - هذا بحث استكشافي\n")
@@ -236,13 +233,13 @@ class SurahKeyDiscovery:
     def generate_report(self, output_dir):
         """إنشاء تقرير الاكتشاف"""
         
-        report = """# 🔍 تقرير اكتشاف مفاتيح السور الفرعية | Surah Sub-Keys Discovery Report
+        report = """# 🌙 نظام Rahman-Key: فن رقمي قرآني مولّد خوارزمياً | Rahman-Key System: Algorithmically Generated Quranic Digital Art
 
 **English:**  
-This report contains the discovery of sub-keys for each Surah in the Quran.
+143 unique patterns for Surahs and disconnected letters - algorithmically generated digital art.
 
 **العربية:**  
-هذا التقرير يحتوي على اكتشاف المفاتيح الفرعية لكل سورة في القرآن.
+143 نمط فريد للسور والحروف المقطعة - فن رقمي مولّد خوارزمياً.
 
 ---
 
