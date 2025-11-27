@@ -1,6 +1,42 @@
 # 🔬 Advanced Experiments | التجارب المتقدمة
 
 **English:**  
+This directory contains experimental code and analysis for advanced Quranic pattern discovery using the Rahman Key (31×6) methodology.
+
+**العربية:**  
+هذا المجلد يحتوي على كود تجريبي وتحليل لاكتشاف الأنماط القرآنية المتقدمة باستخدام منهجية مفتاح الرحمن (31×6).
+
+---
+
+## 📁 Structure | الهيكل
+
+**English:**  
+All experiments follow the same organization as the main project:
+- **Code:** Python scripts in `experiments/`
+- **Output:** Generated images in `experiments_output/`
+- **Documentation:** Markdown files in `experiments/`
+
+**العربية:**  
+جميع التجارب تتبع نفس التنظيم كالمشروع الرئيسي:
+- **الكود:** سكريبتات Python في `experiments/`
+- **المخرجات:** صور مولدة في `experiments_output/`
+- **التوثيق:** ملفات Markdown في `experiments/`
+
+---
+
+## 🔑 Keys and Extractions | المفاتيح والاستخراجات
+
+**English:**  
+See [`KEY_EXTRACTION_ANALYSIS.md`](KEY_EXTRACTION_ANALYSIS.md) for detailed explanation of what we extract from each key.
+
+**العربية:**  
+انظر [`KEY_EXTRACTION_ANALYSIS.md`](KEY_EXTRACTION_ANALYSIS.md) لشرح تفصيلي لما نستخرجه من كل مفتاح.
+
+---
+
+## 🔬 Advanced Experiments | التجارب المتقدمة
+
+**English:**  
 This directory contains advanced experiments applying the Rahman Key (31×6) methodology to various Quranic elements beyond the 114 Surahs.
 
 **العربية:**  
