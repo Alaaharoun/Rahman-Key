@@ -13,20 +13,20 @@ This document provides the exact count of emojis that match the code detection f
 ### المفتاح الرئيسي (31×6) | Main Key (31×6)
 
 **English:**  
-- ❤️ **Hearts (Developed/Complete):** **~50-60 Surahs** (Grade 2 + Grade 3)
-  - Grade 2 (Developed Heart): ~30-40
-  - Grade 3 (Complete Heart): ~10-20
+- ❤️ **Hearts (Developed/Complete):** **5 Surahs** (Grade 2 + Grade 3)
+  - Grade 2 (Developed Heart): **5 Surahs**
+  - Grade 3 (Complete Heart): **0 Surahs**
 - **Total Surahs:** 114
 
-**Note:** The main key uses a different classification system (Grade 0-3), not direct emoji detection.
+**Note:** The main key uses a different classification system (Grade 0-3), not direct emoji detection. Only Grade 2+3 are considered "developed/complete hearts."
 
 **العربية:**  
-- ❤️ **قلوب (متطورة/مكتملة):** **~50-60 سورة** (Grade 2 + Grade 3)
-  - Grade 2 (قلب متطور): ~30-40
-  - Grade 3 (قلب مكتمل): ~10-20
+- ❤️ **قلوب (متطورة/مكتملة):** **5 سور** (Grade 2 + Grade 3)
+  - Grade 2 (قلب متطور): **5 سور**
+  - Grade 3 (قلب مكتمل): **0 سور**
 - **إجمالي السور:** 114
 
-**ملاحظة:** المفتاح الرئيسي يستخدم نظام تصنيف مختلف (Grade 0-3)، وليس اكتشاف إيموجي مباشر.
+**ملاحظة:** المفتاح الرئيسي يستخدم نظام تصنيف مختلف (Grade 0-3)، وليس اكتشاف إيموجي مباشر. فقط Grade 2+3 تعتبر "قلوب متطورة/مكتملة".
 
 ---
 
@@ -85,9 +85,8 @@ This document provides the exact count of emojis that match the code detection f
 
 **Combined Patterns:**
 - Multiple patterns: **20 Surahs** (17.5%)
-  - ❤️🚪 (Heart + Door): ~10-15
-  - ❤️⭐ (Heart + Star): ~5-10
-  - Other combinations: ~5
+  - These are included in the counts above (42 hearts, 21 stars, 8 doors)
+  - Unique Surahs with patterns: **51** (42 + 21 + 8 - 20 overlaps)
 
 **العربية:**  
 **اكتشاف الأنماط (بعد إصلاح الانحياز):**
@@ -98,9 +97,8 @@ This document provides the exact count of emojis that match the code detection f
 
 **أنماط مجمعة:**
 - أنماط متعددة: **20 سورة** (17.5%)
-  - ❤️🚪 (قلب + باب): ~10-15
-  - ❤️⭐ (قلب + نجمة): ~5-10
-  - تركيبات أخرى: ~5
+  - هذه مدرجة في الأعداد أعلاه (42 قلب، 21 نجمة، 8 أبواب)
+  - السور الفريدة مع أنماط: **51** (42 + 21 + 8 - 20 تداخل)
 
 ---
 
@@ -109,16 +107,34 @@ This document provides the exact count of emojis that match the code detection f
 **English:**  
 
 **Main Key (31×6):**
-- ❤️ Hearts: **~50-60 Surahs** (Developed/Complete)
+- ❤️ Hearts (Developed/Complete - Grade 2+3): **5 Surahs**
+  - Grade 2 (Developed Heart): **5 Surahs**
+  - Grade 3 (Complete Heart): **0 Surahs**
 
 **Sub-Keys:**
 - ❤️ Hearts: **42 Surahs**
 - ⭐ Stars: **21 Surahs**
 - 🚪 Doors: **8 Surahs**
-- **Total with emoji patterns: 71 Surahs**
+- **Total unique Surahs with emoji patterns: 51** (accounting for 20 combined patterns)
 
-**Combined:**
-- Total unique Surahs with patterns: **~80-90 Surahs** (some overlap between main and sub-keys)
+**Combined Total:**
+- **Total unique Surahs with emoji patterns: ~55-60 Surahs** (some overlap between main and sub-keys)
+
+**العربية:**  
+
+**المفتاح الرئيسي (31×6):**
+- ❤️ قلوب (متطورة/مكتملة - Grade 2+3): **5 سور**
+  - Grade 2 (قلب متطور): **5 سور**
+  - Grade 3 (قلب مكتمل): **0 سور**
+
+**المفاتيح الفرعية:**
+- ❤️ قلوب: **42 سورة**
+- ⭐ نجوم: **21 سورة**
+- 🚪 أبواب: **8 سور**
+- **إجمالي السور الفريدة مع أنماط إيموجي: 51** (مع احتساب 20 نمط مجمع)
+
+**الإجمالي المدمج:**
+- **إجمالي السور الفريدة مع أنماط إيموجي: ~55-60 سورة** (بعض التداخل بين المفتاح الرئيسي والفرعي)
 
 **العربية:**  
 
@@ -140,9 +156,9 @@ This document provides the exact count of emojis that match the code detection f
 
 | Key Type | ❤️ Hearts | ⭐ Stars | 🚪 Doors | Total with Patterns |
 |----------|-----------|----------|----------|---------------------|
-| **Main (31×6)** | ~50-60 | - | - | ~50-60 |
-| **Sub-Keys** | 42 | 21 | 8 | 71 |
-| **Combined** | ~80-90 | 21 | 8 | ~90-100 |
+| **Main (31×6)** | 5 | - | - | 5 |
+| **Sub-Keys** | 42 | 21 | 8 | 51 |
+| **Combined** | ~45-47 | 21 | 8 | ~55-60 |
 
 **Note:** Some Surahs appear in both main and sub-keys, so the combined total is not a simple sum.
 
