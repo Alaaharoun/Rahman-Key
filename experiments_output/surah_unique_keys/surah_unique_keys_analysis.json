@@ -1,0 +1,2094 @@
+{
+  "Al-Fatiha": {
+    "surah_number": 1,
+    "surah_name": "Al-Fatiha",
+    "ayah_count": 7,
+    "revelation_order": 1,
+    "key": 7,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 75,
+    "white_pixels": 81
+  },
+  "Al-Baqarah": {
+    "surah_number": 2,
+    "surah_name": "Al-Baqarah",
+    "ayah_count": 286,
+    "revelation_order": 87,
+    "key": 764,
+    "matrix_dimensions": "29×6",
+    "rows": 29,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 73,
+    "white_pixels": 101
+  },
+  "Ali 'Imran": {
+    "surah_number": 3,
+    "surah_name": "Ali 'Imran",
+    "ayah_count": 200,
+    "revelation_order": 89,
+    "key": 400,
+    "matrix_dimensions": "29×6",
+    "rows": 29,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 87,
+    "white_pixels": 87
+  },
+  "An-Nisa": {
+    "surah_number": 4,
+    "surah_name": "An-Nisa",
+    "ayah_count": 176,
+    "revelation_order": 92,
+    "key": 768,
+    "matrix_dimensions": "20×6",
+    "rows": 20,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 44,
+    "white_pixels": 76
+  },
+  "Al-Ma'idah": {
+    "surah_number": 5,
+    "surah_name": "Al-Ma'idah",
+    "ayah_count": 120,
+    "revelation_order": 5,
+    "key": 0,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 55,
+    "white_pixels": 59
+  },
+  "Al-An'am": {
+    "surah_number": 6,
+    "surah_name": "Al-An'am",
+    "ayah_count": 165,
+    "revelation_order": 6,
+    "key": 940,
+    "matrix_dimensions": "23×6",
+    "rows": 23,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 79,
+    "white_pixels": 59
+  },
+  "Al-A'raf": {
+    "surah_number": 7,
+    "surah_name": "Al-A'raf",
+    "ayah_count": 206,
+    "revelation_order": 7,
+    "key": 94,
+    "matrix_dimensions": "22×6",
+    "rows": 22,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 67,
+    "white_pixels": 65
+  },
+  "Al-Anfal": {
+    "surah_number": 8,
+    "surah_name": "Al-Anfal",
+    "ayah_count": 75,
+    "revelation_order": 8,
+    "key": 800,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 92,
+    "white_pixels": 64
+  },
+  "At-Tawbah": {
+    "surah_number": 9,
+    "surah_name": "At-Tawbah",
+    "ayah_count": 129,
+    "revelation_order": 9,
+    "key": 449,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 75,
+    "white_pixels": 81
+  },
+  "Yunus": {
+    "surah_number": 10,
+    "surah_name": "Yunus",
+    "ayah_count": 109,
+    "revelation_order": 10,
+    "key": 900,
+    "matrix_dimensions": "22×6",
+    "rows": 22,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 76,
+    "white_pixels": 56
+  },
+  "Hud": {
+    "surah_number": 11,
+    "surah_name": "Hud",
+    "ayah_count": 123,
+    "revelation_order": 11,
+    "key": 883,
+    "matrix_dimensions": "31×6",
+    "rows": 31,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 95,
+    "white_pixels": 91
+  },
+  "Yusuf": {
+    "surah_number": 12,
+    "surah_name": "Yusuf",
+    "ayah_count": 111,
+    "revelation_order": 12,
+    "key": 984,
+    "matrix_dimensions": "28×6",
+    "rows": 28,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 111,
+    "white_pixels": 57
+  },
+  "Ar-Ra'd": {
+    "surah_number": 13,
+    "surah_name": "Ar-Ra'd",
+    "ayah_count": 43,
+    "revelation_order": 13,
+    "key": 267,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 79,
+    "white_pixels": 77
+  },
+  "Ibrahim": {
+    "surah_number": 14,
+    "surah_name": "Ibrahim",
+    "ayah_count": 52,
+    "revelation_order": 14,
+    "key": 192,
+    "matrix_dimensions": "29×6",
+    "rows": 29,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 73,
+    "white_pixels": 101
+  },
+  "Al-Hijr": {
+    "surah_number": 15,
+    "surah_name": "Al-Hijr",
+    "ayah_count": 99,
+    "revelation_order": 15,
+    "key": 275,
+    "matrix_dimensions": "21×6",
+    "rows": 21,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door",
+      "key"
+    ],
+    "pattern_emoji": "⭐🚪🔑",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 61,
+    "white_pixels": 65
+  },
+  "An-Nahl": {
+    "surah_number": 16,
+    "surah_name": "An-Nahl",
+    "ayah_count": 128,
+    "revelation_order": 16,
+    "key": 768,
+    "matrix_dimensions": "20×6",
+    "rows": 20,
+    "cols": 6,
+    "patterns": [
+      "star"
+    ],
+    "pattern_emoji": "⭐",
+    "interpretation": "نمط خاص",
+    "black_pixels": 20,
+    "white_pixels": 100
+  },
+  "Al-Isra": {
+    "surah_number": 17,
+    "surah_name": "Al-Isra",
+    "ayah_count": 111,
+    "revelation_order": 17,
+    "key": 79,
+    "matrix_dimensions": "20×6",
+    "rows": 20,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مهتدي",
+    "black_pixels": 60,
+    "white_pixels": 60
+  },
+  "Al-Kahf": {
+    "surah_number": 18,
+    "surah_name": "Al-Kahf",
+    "ayah_count": 110,
+    "revelation_order": 18,
+    "key": 640,
+    "matrix_dimensions": "22×6",
+    "rows": 22,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 54,
+    "white_pixels": 78
+  },
+  "Maryam": {
+    "surah_number": 19,
+    "surah_name": "Maryam",
+    "ayah_count": 98,
+    "revelation_order": 19,
+    "key": 378,
+    "matrix_dimensions": "20×6",
+    "rows": 20,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 59,
+    "white_pixels": 61
+  },
+  "Ta-Ha": {
+    "surah_number": 20,
+    "surah_name": "Ta-Ha",
+    "ayah_count": 135,
+    "revelation_order": 20,
+    "key": 0,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مهتدي",
+    "black_pixels": 76,
+    "white_pixels": 38
+  },
+  "Al-Anbiya": {
+    "surah_number": 21,
+    "surah_name": "Al-Anbiya",
+    "ayah_count": 112,
+    "revelation_order": 21,
+    "key": 392,
+    "matrix_dimensions": "21×6",
+    "rows": 21,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 63,
+    "white_pixels": 63
+  },
+  "Al-Hajj": {
+    "surah_number": 22,
+    "surah_name": "Al-Hajj",
+    "ayah_count": 78,
+    "revelation_order": 22,
+    "key": 752,
+    "matrix_dimensions": "30×6",
+    "rows": 30,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 76,
+    "white_pixels": 104
+  },
+  "Al-Mu'minun": {
+    "surah_number": 23,
+    "surah_name": "Al-Mu'minun",
+    "ayah_count": 118,
+    "revelation_order": 23,
+    "key": 422,
+    "matrix_dimensions": "25×6",
+    "rows": 25,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 76,
+    "white_pixels": 74
+  },
+  "An-Nur": {
+    "surah_number": 24,
+    "surah_name": "An-Nur",
+    "ayah_count": 64,
+    "revelation_order": 24,
+    "key": 864,
+    "matrix_dimensions": "25×6",
+    "rows": 25,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 37,
+    "white_pixels": 113
+  },
+  "Al-Furqan": {
+    "surah_number": 25,
+    "surah_name": "Al-Furqan",
+    "ayah_count": 77,
+    "revelation_order": 25,
+    "key": 125,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 80,
+    "white_pixels": 82
+  },
+  "Ash-Shu'ara": {
+    "surah_number": 26,
+    "surah_name": "Ash-Shu'ara",
+    "ayah_count": 227,
+    "revelation_order": 26,
+    "key": 452,
+    "matrix_dimensions": "29×6",
+    "rows": 29,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 102,
+    "white_pixels": 72
+  },
+  "An-Naml": {
+    "surah_number": 27,
+    "surah_name": "An-Naml",
+    "ayah_count": 93,
+    "revelation_order": 27,
+    "key": 797,
+    "matrix_dimensions": "23×6",
+    "rows": 23,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 68,
+    "white_pixels": 70
+  },
+  "Al-Qasas": {
+    "surah_number": 28,
+    "surah_name": "Al-Qasas",
+    "ayah_count": 88,
+    "revelation_order": 28,
+    "key": 992,
+    "matrix_dimensions": "23×6",
+    "rows": 23,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 45,
+    "white_pixels": 93
+  },
+  "Al-Ankabut": {
+    "surah_number": 29,
+    "surah_name": "Al-Ankabut",
+    "ayah_count": 69,
+    "revelation_order": 29,
+    "key": 29,
+    "matrix_dimensions": "22×6",
+    "rows": 22,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 68,
+    "white_pixels": 64
+  },
+  "Ar-Rum": {
+    "surah_number": 30,
+    "surah_name": "Ar-Rum",
+    "ayah_count": 60,
+    "revelation_order": 30,
+    "key": 0,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مهتدي",
+    "black_pixels": 50,
+    "white_pixels": 64
+  },
+  "Luqman": {
+    "surah_number": 31,
+    "surah_name": "Luqman",
+    "ayah_count": 34,
+    "revelation_order": 31,
+    "key": 674,
+    "matrix_dimensions": "30×6",
+    "rows": 30,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 90,
+    "white_pixels": 90
+  },
+  "As-Sajdah": {
+    "surah_number": 32,
+    "surah_name": "As-Sajdah",
+    "ayah_count": 30,
+    "revelation_order": 32,
+    "key": 720,
+    "matrix_dimensions": "24×6",
+    "rows": 24,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door",
+      "key"
+    ],
+    "pattern_emoji": "❤️⭐🚪🔑",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 84,
+    "white_pixels": 60
+  },
+  "Al-Ahzab": {
+    "surah_number": 33,
+    "surah_name": "Al-Ahzab",
+    "ayah_count": 73,
+    "revelation_order": 33,
+    "key": 497,
+    "matrix_dimensions": "22×6",
+    "rows": 22,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 66,
+    "white_pixels": 66
+  },
+  "Saba": {
+    "surah_number": 34,
+    "surah_name": "Saba",
+    "ayah_count": 54,
+    "revelation_order": 34,
+    "key": 424,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 64,
+    "white_pixels": 98
+  },
+  "Fatir": {
+    "surah_number": 35,
+    "surah_name": "Fatir",
+    "ayah_count": 45,
+    "revelation_order": 35,
+    "key": 125,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مهتدي",
+    "black_pixels": 81,
+    "white_pixels": 81
+  },
+  "Ya-Sin": {
+    "surah_number": 36,
+    "surah_name": "Ya-Sin",
+    "ayah_count": 83,
+    "revelation_order": 36,
+    "key": 568,
+    "matrix_dimensions": "28×6",
+    "rows": 28,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 112,
+    "white_pixels": 56
+  },
+  "As-Saffat": {
+    "surah_number": 37,
+    "surah_name": "As-Saffat",
+    "ayah_count": 182,
+    "revelation_order": 37,
+    "key": 158,
+    "matrix_dimensions": "21×6",
+    "rows": 21,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 64,
+    "white_pixels": 62
+  },
+  "Sad": {
+    "surah_number": 38,
+    "surah_name": "Sad",
+    "ayah_count": 88,
+    "revelation_order": 38,
+    "key": 72,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مهتدي",
+    "black_pixels": 63,
+    "white_pixels": 93
+  },
+  "Az-Zumar": {
+    "surah_number": 39,
+    "surah_name": "Az-Zumar",
+    "ayah_count": 75,
+    "revelation_order": 39,
+    "key": 75,
+    "matrix_dimensions": "29×6",
+    "rows": 29,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مهتدي",
+    "black_pixels": 88,
+    "white_pixels": 86
+  },
+  "Ghafir": {
+    "surah_number": 40,
+    "surah_name": "Ghafir",
+    "ayah_count": 85,
+    "revelation_order": 40,
+    "key": 0,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 67,
+    "white_pixels": 47
+  },
+  "Fussilat": {
+    "surah_number": 41,
+    "surah_name": "Fussilat",
+    "ayah_count": 54,
+    "revelation_order": 41,
+    "key": 774,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 80,
+    "white_pixels": 76
+  },
+  "Ash-Shura": {
+    "surah_number": 42,
+    "surah_name": "Ash-Shura",
+    "ayah_count": 53,
+    "revelation_order": 42,
+    "key": 492,
+    "matrix_dimensions": "30×6",
+    "rows": 30,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 104,
+    "white_pixels": 76
+  },
+  "Az-Zukhruf": {
+    "surah_number": 43,
+    "surah_name": "Az-Zukhruf",
+    "ayah_count": 89,
+    "revelation_order": 43,
+    "key": 561,
+    "matrix_dimensions": "21×6",
+    "rows": 21,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 63,
+    "white_pixels": 63
+  },
+  "Ad-Dukhan": {
+    "surah_number": 44,
+    "surah_name": "Ad-Dukhan",
+    "ayah_count": 59,
+    "revelation_order": 44,
+    "key": 224,
+    "matrix_dimensions": "22×6",
+    "rows": 22,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 88,
+    "white_pixels": 44
+  },
+  "Al-Jathiyah": {
+    "surah_number": 45,
+    "surah_name": "Al-Jathiyah",
+    "ayah_count": 37,
+    "revelation_order": 45,
+    "key": 925,
+    "matrix_dimensions": "21×6",
+    "rows": 21,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 64,
+    "white_pixels": 62
+  },
+  "Al-Ahqaf": {
+    "surah_number": 46,
+    "surah_name": "Al-Ahqaf",
+    "ayah_count": 35,
+    "revelation_order": 46,
+    "key": 60,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 96,
+    "white_pixels": 66
+  },
+  "Muhammad": {
+    "surah_number": 47,
+    "surah_name": "Muhammad",
+    "ayah_count": 38,
+    "revelation_order": 47,
+    "key": 942,
+    "matrix_dimensions": "25×6",
+    "rows": 25,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 74,
+    "white_pixels": 76
+  },
+  "Al-Fath": {
+    "surah_number": 48,
+    "surah_name": "Al-Fath",
+    "ayah_count": 29,
+    "revelation_order": 48,
+    "key": 816,
+    "matrix_dimensions": "29×6",
+    "rows": 29,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door",
+      "key"
+    ],
+    "pattern_emoji": "❤️⭐🚪🔑",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 115,
+    "white_pixels": 59
+  },
+  "Al-Hujurat": {
+    "surah_number": 49,
+    "surah_name": "Al-Hujurat",
+    "ayah_count": 18,
+    "revelation_order": 49,
+    "key": 218,
+    "matrix_dimensions": "29×6",
+    "rows": 29,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 85,
+    "white_pixels": 89
+  },
+  "Qaf": {
+    "surah_number": 50,
+    "surah_name": "Qaf",
+    "ayah_count": 45,
+    "revelation_order": 50,
+    "key": 500,
+    "matrix_dimensions": "25×6",
+    "rows": 25,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 86,
+    "white_pixels": 64
+  },
+  "Adh-Dhariyat": {
+    "surah_number": 51,
+    "surah_name": "Adh-Dhariyat",
+    "ayah_count": 60,
+    "revelation_order": 51,
+    "key": 60,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door",
+      "key"
+    ],
+    "pattern_emoji": "⭐🚪🔑",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 78,
+    "white_pixels": 84
+  },
+  "At-Tur": {
+    "surah_number": 52,
+    "surah_name": "At-Tur",
+    "ayah_count": 49,
+    "revelation_order": 52,
+    "key": 496,
+    "matrix_dimensions": "21×6",
+    "rows": 21,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 63,
+    "white_pixels": 63
+  },
+  "An-Najm": {
+    "surah_number": 53,
+    "surah_name": "An-Najm",
+    "ayah_count": 62,
+    "revelation_order": 53,
+    "key": 158,
+    "matrix_dimensions": "21×6",
+    "rows": 21,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 58,
+    "white_pixels": 68
+  },
+  "Al-Qamar": {
+    "surah_number": 54,
+    "surah_name": "Al-Qamar",
+    "ayah_count": 55,
+    "revelation_order": 54,
+    "key": 380,
+    "matrix_dimensions": "22×6",
+    "rows": 22,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 77,
+    "white_pixels": 55
+  },
+  "Ar-Rahman": {
+    "surah_number": 55,
+    "surah_name": "Ar-Rahman",
+    "ayah_count": 78,
+    "revelation_order": 55,
+    "key": 950,
+    "matrix_dimensions": "20×6",
+    "rows": 20,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 60,
+    "white_pixels": 60
+  },
+  "Al-Waqi'ah": {
+    "surah_number": 56,
+    "surah_name": "Al-Waqi'ah",
+    "ayah_count": 96,
+    "revelation_order": 56,
+    "key": 56,
+    "matrix_dimensions": "23×6",
+    "rows": 23,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 35,
+    "white_pixels": 103
+  },
+  "Al-Hadid": {
+    "surah_number": 57,
+    "surah_name": "Al-Hadid",
+    "ayah_count": 29,
+    "revelation_order": 57,
+    "key": 221,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 58,
+    "white_pixels": 56
+  },
+  "Al-Mujadila": {
+    "surah_number": 58,
+    "surah_name": "Al-Mujadila",
+    "ayah_count": 22,
+    "revelation_order": 58,
+    "key": 8,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 65,
+    "white_pixels": 97
+  },
+  "Al-Hashr": {
+    "surah_number": 59,
+    "surah_name": "Al-Hashr",
+    "ayah_count": 24,
+    "revelation_order": 59,
+    "key": 544,
+    "matrix_dimensions": "30×6",
+    "rows": 30,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 91,
+    "white_pixels": 89
+  },
+  "Al-Mumtahanah": {
+    "surah_number": 60,
+    "surah_name": "Al-Mumtahanah",
+    "ayah_count": 13,
+    "revelation_order": 60,
+    "key": 800,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 77,
+    "white_pixels": 79
+  },
+  "As-Saff": {
+    "surah_number": 61,
+    "surah_name": "As-Saff",
+    "ayah_count": 14,
+    "revelation_order": 61,
+    "key": 94,
+    "matrix_dimensions": "22×6",
+    "rows": 22,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 66,
+    "white_pixels": 66
+  },
+  "Al-Jumu'ah": {
+    "surah_number": 62,
+    "surah_name": "Al-Jumu'ah",
+    "ayah_count": 11,
+    "revelation_order": 62,
+    "key": 284,
+    "matrix_dimensions": "30×6",
+    "rows": 30,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 105,
+    "white_pixels": 75
+  },
+  "Al-Munafiqun": {
+    "surah_number": 63,
+    "surah_name": "Al-Munafiqun",
+    "ayah_count": 11,
+    "revelation_order": 63,
+    "key": 659,
+    "matrix_dimensions": "28×6",
+    "rows": 28,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 73,
+    "white_pixels": 95
+  },
+  "At-Taghabun": {
+    "surah_number": 64,
+    "surah_name": "At-Taghabun",
+    "ayah_count": 18,
+    "revelation_order": 64,
+    "key": 728,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 57,
+    "white_pixels": 57
+  },
+  "At-Talaq": {
+    "surah_number": 65,
+    "surah_name": "At-Talaq",
+    "ayah_count": 12,
+    "revelation_order": 65,
+    "key": 700,
+    "matrix_dimensions": "30×6",
+    "rows": 30,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 81,
+    "white_pixels": 99
+  },
+  "At-Tahrim": {
+    "surah_number": 66,
+    "surah_name": "At-Tahrim",
+    "ayah_count": 12,
+    "revelation_order": 66,
+    "key": 272,
+    "matrix_dimensions": "31×6",
+    "rows": 31,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 77,
+    "white_pixels": 109
+  },
+  "Al-Mulk": {
+    "surah_number": 67,
+    "surah_name": "Al-Mulk",
+    "ayah_count": 30,
+    "revelation_order": 67,
+    "key": 670,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 78,
+    "white_pixels": 78
+  },
+  "Al-Qalam": {
+    "surah_number": 68,
+    "surah_name": "Al-Qalam",
+    "ayah_count": 52,
+    "revelation_order": 68,
+    "key": 448,
+    "matrix_dimensions": "25×6",
+    "rows": 25,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 49,
+    "white_pixels": 101
+  },
+  "Al-Haqqah": {
+    "surah_number": 69,
+    "surah_name": "Al-Haqqah",
+    "ayah_count": 52,
+    "revelation_order": 69,
+    "key": 572,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 56,
+    "white_pixels": 58
+  },
+  "Al-Ma'arij": {
+    "surah_number": 70,
+    "surah_name": "Al-Ma'arij",
+    "ayah_count": 44,
+    "revelation_order": 70,
+    "key": 600,
+    "matrix_dimensions": "21×6",
+    "rows": 21,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 52,
+    "white_pixels": 74
+  },
+  "Nuh": {
+    "surah_number": 71,
+    "surah_name": "Nuh",
+    "ayah_count": 28,
+    "revelation_order": 71,
+    "key": 148,
+    "matrix_dimensions": "24×6",
+    "rows": 24,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 72,
+    "white_pixels": 72
+  },
+  "Al-Jinn": {
+    "surah_number": 72,
+    "surah_name": "Al-Jinn",
+    "ayah_count": 28,
+    "revelation_order": 72,
+    "key": 152,
+    "matrix_dimensions": "28×6",
+    "rows": 28,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 70,
+    "white_pixels": 98
+  },
+  "Al-Muzzammil": {
+    "surah_number": 73,
+    "surah_name": "Al-Muzzammil",
+    "ayah_count": 20,
+    "revelation_order": 73,
+    "key": 580,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 79,
+    "white_pixels": 83
+  },
+  "Al-Muddaththir": {
+    "surah_number": 74,
+    "surah_name": "Al-Muddaththir",
+    "ayah_count": 56,
+    "revelation_order": 74,
+    "key": 656,
+    "matrix_dimensions": "25×6",
+    "rows": 25,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 62,
+    "white_pixels": 88
+  },
+  "Al-Qiyamah": {
+    "surah_number": 75,
+    "surah_name": "Al-Qiyamah",
+    "ayah_count": 40,
+    "revelation_order": 75,
+    "key": 0,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 56,
+    "white_pixels": 58
+  },
+  "Al-Insan": {
+    "surah_number": 76,
+    "surah_name": "Al-Insan",
+    "ayah_count": 31,
+    "revelation_order": 76,
+    "key": 56,
+    "matrix_dimensions": "23×6",
+    "rows": 23,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مهتدي",
+    "black_pixels": 92,
+    "white_pixels": 46
+  },
+  "Al-Mursalat": {
+    "surah_number": 77,
+    "surah_name": "Al-Mursalat",
+    "ayah_count": 50,
+    "revelation_order": 77,
+    "key": 450,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 79,
+    "white_pixels": 83
+  },
+  "An-Naba": {
+    "surah_number": 78,
+    "surah_name": "An-Naba",
+    "ayah_count": 40,
+    "revelation_order": 78,
+    "key": 360,
+    "matrix_dimensions": "28×6",
+    "rows": 28,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 71,
+    "white_pixels": 97
+  },
+  "An-Nazi'at": {
+    "surah_number": 79,
+    "surah_name": "An-Nazi'at",
+    "ayah_count": 46,
+    "revelation_order": 79,
+    "key": 86,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مهتدي",
+    "black_pixels": 80,
+    "white_pixels": 82
+  },
+  "Abasa": {
+    "surah_number": 80,
+    "surah_name": "Abasa",
+    "ayah_count": 42,
+    "revelation_order": 80,
+    "key": 800,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 77,
+    "white_pixels": 79
+  },
+  "At-Takwir": {
+    "surah_number": 81,
+    "surah_name": "At-Takwir",
+    "ayah_count": 29,
+    "revelation_order": 81,
+    "key": 269,
+    "matrix_dimensions": "28×6",
+    "rows": 28,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 86,
+    "white_pixels": 82
+  },
+  "Al-Infitar": {
+    "surah_number": 82,
+    "surah_name": "Al-Infitar",
+    "ayah_count": 19,
+    "revelation_order": 82,
+    "key": 756,
+    "matrix_dimensions": "21×6",
+    "rows": 21,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 75,
+    "white_pixels": 51
+  },
+  "Al-Mutaffifin": {
+    "surah_number": 83,
+    "surah_name": "Al-Mutaffifin",
+    "ayah_count": 36,
+    "revelation_order": 83,
+    "key": 4,
+    "matrix_dimensions": "23×6",
+    "rows": 23,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مهتدي",
+    "black_pixels": 69,
+    "white_pixels": 69
+  },
+  "Al-Inshiqaq": {
+    "surah_number": 84,
+    "surah_name": "Al-Inshiqaq",
+    "ayah_count": 25,
+    "revelation_order": 84,
+    "key": 400,
+    "matrix_dimensions": "29×6",
+    "rows": 29,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 88,
+    "white_pixels": 86
+  },
+  "Al-Buruj": {
+    "surah_number": 85,
+    "surah_name": "Al-Buruj",
+    "ayah_count": 22,
+    "revelation_order": 85,
+    "key": 950,
+    "matrix_dimensions": "20×6",
+    "rows": 20,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 59,
+    "white_pixels": 61
+  },
+  "At-Tariq": {
+    "surah_number": 86,
+    "surah_name": "At-Tariq",
+    "ayah_count": 17,
+    "revelation_order": 86,
+    "key": 732,
+    "matrix_dimensions": "23×6",
+    "rows": 23,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 79,
+    "white_pixels": 59
+  },
+  "Al-A'la": {
+    "surah_number": 87,
+    "surah_name": "Al-A'la",
+    "ayah_count": 19,
+    "revelation_order": 87,
+    "key": 811,
+    "matrix_dimensions": "24×6",
+    "rows": 24,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 72,
+    "white_pixels": 72
+  },
+  "Al-Ghashiyah": {
+    "surah_number": 88,
+    "surah_name": "Al-Ghashiyah",
+    "ayah_count": 26,
+    "revelation_order": 88,
+    "key": 344,
+    "matrix_dimensions": "25×6",
+    "rows": 25,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 63,
+    "white_pixels": 87
+  },
+  "Al-Fajr": {
+    "surah_number": 89,
+    "surah_name": "Al-Fajr",
+    "ayah_count": 30,
+    "revelation_order": 89,
+    "key": 630,
+    "matrix_dimensions": "25×6",
+    "rows": 25,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 74,
+    "white_pixels": 76
+  },
+  "Al-Balad": {
+    "surah_number": 90,
+    "surah_name": "Al-Balad",
+    "ayah_count": 20,
+    "revelation_order": 90,
+    "key": 0,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 48,
+    "white_pixels": 66
+  },
+  "Ash-Shams": {
+    "surah_number": 91,
+    "surah_name": "Ash-Shams",
+    "ayah_count": 15,
+    "revelation_order": 91,
+    "key": 215,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 77,
+    "white_pixels": 79
+  },
+  "Al-Layl": {
+    "surah_number": 92,
+    "surah_name": "Al-Layl",
+    "ayah_count": 21,
+    "revelation_order": 92,
+    "key": 744,
+    "matrix_dimensions": "22×6",
+    "rows": 22,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 68,
+    "white_pixels": 64
+  },
+  "Ad-Duha": {
+    "surah_number": 93,
+    "surah_name": "Ad-Duha",
+    "ayah_count": 11,
+    "revelation_order": 93,
+    "key": 139,
+    "matrix_dimensions": "28×6",
+    "rows": 28,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door",
+      "key"
+    ],
+    "pattern_emoji": "⭐🚪🔑",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 83,
+    "white_pixels": 85
+  },
+  "Ash-Sharh": {
+    "surah_number": 94,
+    "surah_name": "Ash-Sharh",
+    "ayah_count": 8,
+    "revelation_order": 94,
+    "key": 688,
+    "matrix_dimensions": "31×6",
+    "rows": 31,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 77,
+    "white_pixels": 109
+  },
+  "At-Tin": {
+    "surah_number": 95,
+    "surah_name": "At-Tin",
+    "ayah_count": 8,
+    "revelation_order": 95,
+    "key": 200,
+    "matrix_dimensions": "24×6",
+    "rows": 24,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 70,
+    "white_pixels": 74
+  },
+  "Al-Alaq": {
+    "surah_number": 96,
+    "surah_name": "Al-Alaq",
+    "ayah_count": 19,
+    "revelation_order": 96,
+    "key": 104,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مهتدي",
+    "black_pixels": 86,
+    "white_pixels": 28
+  },
+  "Al-Qadr": {
+    "surah_number": 97,
+    "surah_name": "Al-Qadr",
+    "ayah_count": 5,
+    "revelation_order": 97,
+    "key": 45,
+    "matrix_dimensions": "25×6",
+    "rows": 25,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door",
+      "key"
+    ],
+    "pattern_emoji": "⭐🚪🔑",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 74,
+    "white_pixels": 76
+  },
+  "Al-Bayyinah": {
+    "surah_number": 98,
+    "surah_name": "Al-Bayyinah",
+    "ayah_count": 8,
+    "revelation_order": 98,
+    "key": 832,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 47,
+    "white_pixels": 67
+  },
+  "Az-Zalzalah": {
+    "surah_number": 99,
+    "surah_name": "Az-Zalzalah",
+    "ayah_count": 8,
+    "revelation_order": 99,
+    "key": 408,
+    "matrix_dimensions": "24×6",
+    "rows": 24,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 71,
+    "white_pixels": 73
+  },
+  "Al-Adiyat": {
+    "surah_number": 100,
+    "surah_name": "Al-Adiyat",
+    "ayah_count": 11,
+    "revelation_order": 100,
+    "key": 0,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 75,
+    "white_pixels": 39
+  },
+  "Al-Qari'ah": {
+    "surah_number": 101,
+    "surah_name": "Al-Qari'ah",
+    "ayah_count": 11,
+    "revelation_order": 101,
+    "key": 211,
+    "matrix_dimensions": "22×6",
+    "rows": 22,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 67,
+    "white_pixels": 65
+  },
+  "At-Takathur": {
+    "surah_number": 102,
+    "surah_name": "At-Takathur",
+    "ayah_count": 8,
+    "revelation_order": 102,
+    "key": 232,
+    "matrix_dimensions": "30×6",
+    "rows": 30,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 76,
+    "white_pixels": 104
+  },
+  "Al-Asr": {
+    "surah_number": 103,
+    "surah_name": "Al-Asr",
+    "ayah_count": 3,
+    "revelation_order": 103,
+    "key": 827,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 83,
+    "white_pixels": 79
+  },
+  "Al-Humazah": {
+    "surah_number": 104,
+    "surah_name": "Al-Humazah",
+    "ayah_count": 9,
+    "revelation_order": 104,
+    "key": 344,
+    "matrix_dimensions": "25×6",
+    "rows": 25,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 62,
+    "white_pixels": 88
+  },
+  "Al-Fil": {
+    "surah_number": 105,
+    "surah_name": "Al-Fil",
+    "ayah_count": 5,
+    "revelation_order": 105,
+    "key": 125,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 79,
+    "white_pixels": 83
+  },
+  "Quraysh": {
+    "surah_number": 106,
+    "surah_name": "Quraysh",
+    "ayah_count": 4,
+    "revelation_order": 106,
+    "key": 944,
+    "matrix_dimensions": "27×6",
+    "rows": 27,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 69,
+    "white_pixels": 93
+  },
+  "Al-Ma'un": {
+    "surah_number": 107,
+    "surah_name": "Al-Ma'un",
+    "ayah_count": 7,
+    "revelation_order": 107,
+    "key": 143,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 52,
+    "white_pixels": 62
+  },
+  "Al-Kawthar": {
+    "surah_number": 108,
+    "surah_name": "Al-Kawthar",
+    "ayah_count": 3,
+    "revelation_order": 108,
+    "key": 992,
+    "matrix_dimensions": "23×6",
+    "rows": 23,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 93,
+    "white_pixels": 45
+  },
+  "Al-Kafirun": {
+    "surah_number": 109,
+    "surah_name": "Al-Kafirun",
+    "ayah_count": 6,
+    "revelation_order": 109,
+    "key": 286,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 55,
+    "white_pixels": 59
+  },
+  "An-Nasr": {
+    "surah_number": 110,
+    "surah_name": "An-Nasr",
+    "ayah_count": 3,
+    "revelation_order": 110,
+    "key": 300,
+    "matrix_dimensions": "20×6",
+    "rows": 20,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 72,
+    "white_pixels": 48
+  },
+  "Al-Masad": {
+    "surah_number": 111,
+    "surah_name": "Al-Masad",
+    "ayah_count": 5,
+    "revelation_order": 111,
+    "key": 605,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "heart",
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "❤️⭐🚪",
+    "interpretation": "قلب مفتوح",
+    "black_pixels": 78,
+    "white_pixels": 78
+  },
+  "Al-Ikhlas": {
+    "surah_number": 112,
+    "surah_name": "Al-Ikhlas",
+    "ayah_count": 4,
+    "revelation_order": 112,
+    "key": 176,
+    "matrix_dimensions": "26×6",
+    "rows": 26,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 53,
+    "white_pixels": 103
+  },
+  "Al-Falaq": {
+    "surah_number": 113,
+    "surah_name": "Al-Falaq",
+    "ayah_count": 5,
+    "revelation_order": 113,
+    "key": 845,
+    "matrix_dimensions": "19×6",
+    "rows": 19,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 53,
+    "white_pixels": 61
+  },
+  "An-Nas": {
+    "surah_number": 114,
+    "surah_name": "An-Nas",
+    "ayah_count": 6,
+    "revelation_order": 114,
+    "key": 976,
+    "matrix_dimensions": "20×6",
+    "rows": 20,
+    "cols": 6,
+    "patterns": [
+      "star",
+      "door"
+    ],
+    "pattern_emoji": "⭐🚪",
+    "interpretation": "هداية وفتح",
+    "black_pixels": 50,
+    "white_pixels": 70
+  }
+}
