@@ -50,27 +50,77 @@ class SurahKeyDiscovery:
         return matrix
     
     def detect_heart(self, matrix):
-        """كشف نمط القلب"""
+        """كشف نمط القلب - محسّن"""
         height, width = matrix.shape
         if height < 5:
             return False
-        # خوارزمية كشف القلب (تبسيط)
-        center_density = np.sum(matrix[height//2-1:height//2+2, :])
-        return center_density > 12
+        
+        # تحسين: فحص شكل القلب الكامل (ليس فقط الوسط)
+        # 1. الجزء السفلي (شكل القلب المميز)
+        bottom_part = np.sum(matrix[height-5:, 1:width-1])
+        bottom_threshold = (5 * (width-2)) * 0.5  # 50% من البكسلات السفلية
+        
+        # 2. التناظر الأفقي (القلب متناظر)
+        if height >= 10:
+            top_half = matrix[:height//2, :]
+            bottom_half = np.flipud(matrix[height//2:, :])
+            min_height = min(top_half.shape[0], bottom_half.shape[0])
+            if min_height > 0:
+                symmetry = np.sum(top_half[:min_height, :] == bottom_half[:min_height, :]) / (min_height * width)
+                if symmetry > 0.4:  # تناظر معقول
+                    return bottom_part > bottom_threshold
+        
+        # 3. الكثافة المركزية
+        center_density = np.sum(matrix[height//2-2:height//2+3, :])
+        center_threshold = (5 * width) * 0.4  # 40% من البكسلات المركزية
+        
+        return bottom_part > bottom_threshold or center_density > center_threshold
     
     def detect_star(self, matrix):
-        """كشف نمط النجمة"""
-        if matrix.shape[0] < 2:
+        """كشف نمط النجمة - محسّن"""
+        height, width = matrix.shape
+        if height < 3 or width < 3:
             return False
-        corner_density = (np.sum(matrix[0, :]) + np.sum(matrix[-1, :])) / 12
-        return corner_density > 0.7
+        
+        # تحسين: فحص النجمة الكاملة (الزوايا + المركز)
+        # 1. الزوايا الأربع
+        corners = (np.sum(matrix[0, :]) + np.sum(matrix[-1, :]) + 
+                   np.sum(matrix[:, 0]) + np.sum(matrix[:, -1]))
+        corner_threshold = (2 * width + 2 * height) * 0.5  # 50% من الزوايا
+        
+        # 2. المركز (النجمة لها مركز مضيء)
+        center_row = height // 2
+        center_col = width // 2
+        center_region = matrix[max(0, center_row-1):min(height, center_row+2), 
+                               max(0, center_col-1):min(width, center_col+2)]
+        center_density = np.sum(center_region)
+        center_threshold = center_region.size * 0.4  # 40% من المركز
+        
+        # 3. النجمة تحتاج زوايا + مركز
+        return corners > corner_threshold and center_density > center_threshold
     
     def detect_door(self, matrix):
-        """كشف نمط الباب"""
-        if matrix.shape[1] < 4:
+        """كشف نمط الباب - محسّن (عتبة تكيفية)"""
+        height, width = matrix.shape
+        if width < 4:
             return False
-        middle_columns = np.sum(matrix[:, 2:4])
-        return middle_columns > 15
+        
+        # تحسين: عتبة تكيفية حسب حجم المصفوفة
+        middle_columns = np.sum(matrix[:, 2:4])  # الأعمدة 2 و 3
+        total_middle_pixels = 2 * height  # عمودان × عدد الصفوف
+        
+        # عتبة تكيفية: 50% من البكسلات الوسطى يجب أن تكون سوداء
+        # (بدلاً من 15 ثابت - كان منخفض جداً)
+        threshold = total_middle_pixels * 0.5
+        
+        # تحسين إضافي: الباب له شكل مميز (أعمدة وسطية قوية)
+        # يجب أن تكون الأعمدة الوسطى أكثر كثافة من الأعمدة الجانبية
+        side_columns = (np.sum(matrix[:, 0:2]) + np.sum(matrix[:, 4:6])) / 2  # متوسط الأعمدة الجانبية
+        middle_density = middle_columns / total_middle_pixels
+        side_density = side_columns / (2 * height) if (2 * height) > 0 else 0
+        
+        # الباب: الأعمدة الوسطى أكثر كثافة من الجانبية
+        return middle_columns > threshold and middle_density > side_density * 1.2
     
     def analyze_key_pattern(self, matrix, surah_name, key):
         """تحليل النمط في مفتاح السورة"""

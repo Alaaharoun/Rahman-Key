@@ -9,10 +9,11 @@
     "white_pixels": 84,
     "symmetry": "0.0%",
     "patterns": [
+      "heart",
       "door"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️🚪",
+    "interpretation": "قلب مفتوح للهداية"
   },
   "Al-Baqarah": {
     "surah": "Al-Baqarah",
@@ -24,10 +25,10 @@
     "white_pixels": 66,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "⭐",
+    "interpretation": "إرشاد وهداية"
   },
   "Ali 'Imran": {
     "surah": "Ali 'Imran",
@@ -39,10 +40,10 @@
     "white_pixels": 145,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "An-Nisa": {
     "surah": "An-Nisa",
@@ -53,11 +54,9 @@
     "black_pixels": 34,
     "white_pixels": 80,
     "symmetry": "11.1%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Ma'idah": {
     "surah": "Al-Ma'idah",
@@ -68,11 +67,9 @@
     "black_pixels": 96,
     "white_pixels": 102,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-An'am": {
     "surah": "Al-An'am",
@@ -84,10 +81,11 @@
     "white_pixels": 122,
     "symmetry": "0.0%",
     "patterns": [
+      "heart",
       "door"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️🚪",
+    "interpretation": "قلب مفتوح للهداية"
   },
   "Al-A'raf": {
     "surah": "Al-A'raf",
@@ -99,10 +97,10 @@
     "white_pixels": 61,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Anfal": {
     "surah": "Al-Anfal",
@@ -126,12 +124,9 @@
     "black_pixels": 75,
     "white_pixels": 81,
     "symmetry": "0.0%",
-    "patterns": [
-      "heart",
-      "door"
-    ],
-    "pattern_emojis": "❤️🚪",
-    "interpretation": "قلب مفتوح للهداية"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Yunus": {
     "surah": "Yunus",
@@ -142,11 +137,9 @@
     "black_pixels": 116,
     "white_pixels": 82,
     "symmetry": "6.2%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Hud": {
     "surah": "Hud",
@@ -157,11 +150,9 @@
     "black_pixels": 142,
     "white_pixels": 140,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Yusuf": {
     "surah": "Yusuf",
@@ -173,11 +164,11 @@
     "white_pixels": 48,
     "symmetry": "0.0%",
     "patterns": [
-      "star",
-      "door"
+      "heart",
+      "star"
     ],
-    "pattern_emojis": "⭐🚪",
-    "interpretation": "هداية وفتح"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "Ar-Ra'd": {
     "surah": "Ar-Ra'd",
@@ -189,10 +180,10 @@
     "white_pixels": 93,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Ibrahim": {
     "surah": "Ibrahim",
@@ -204,10 +195,10 @@
     "white_pixels": 77,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "⭐",
+    "interpretation": "إرشاد وهداية"
   },
   "Al-Hijr": {
     "surah": "Al-Hijr",
@@ -218,11 +209,9 @@
     "black_pixels": 63,
     "white_pixels": 63,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "An-Nahl": {
     "surah": "An-Nahl",
@@ -246,11 +235,9 @@
     "black_pixels": 104,
     "white_pixels": 112,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Kahf": {
     "surah": "Al-Kahf",
@@ -261,11 +248,9 @@
     "black_pixels": 56,
     "white_pixels": 82,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Maryam": {
     "surah": "Maryam",
@@ -277,11 +262,11 @@
     "white_pixels": 142,
     "symmetry": "0.0%",
     "patterns": [
-      "star",
-      "door"
+      "heart",
+      "star"
     ],
-    "pattern_emojis": "⭐🚪",
-    "interpretation": "هداية وفتح"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "Ta-Ha": {
     "surah": "Ta-Ha",
@@ -292,11 +277,9 @@
     "black_pixels": 36,
     "white_pixels": 78,
     "symmetry": "11.1%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Anbiya": {
     "surah": "Al-Anbiya",
@@ -308,10 +291,10 @@
     "white_pixels": 97,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Hajj": {
     "surah": "Al-Hajj",
@@ -323,10 +306,10 @@
     "white_pixels": 147,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Mu'minun": {
     "surah": "Al-Mu'minun",
@@ -338,10 +321,10 @@
     "white_pixels": 90,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "An-Nur": {
     "surah": "An-Nur",
@@ -366,10 +349,11 @@
     "white_pixels": 57,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart",
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "Ash-Shu'ara": {
     "surah": "Ash-Shu'ara",
@@ -381,10 +365,10 @@
     "white_pixels": 75,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "⭐",
+    "interpretation": "إرشاد وهداية"
   },
   "An-Naml": {
     "surah": "An-Naml",
@@ -396,10 +380,10 @@
     "white_pixels": 143,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Qasas": {
     "surah": "Al-Qasas",
@@ -410,11 +394,9 @@
     "black_pixels": 52,
     "white_pixels": 104,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Ankabut": {
     "surah": "Al-Ankabut",
@@ -426,10 +408,10 @@
     "white_pixels": 140,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Ar-Rum": {
     "surah": "Ar-Rum",
@@ -441,10 +423,10 @@
     "white_pixels": 70,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "⭐",
+    "interpretation": "إرشاد وهداية"
   },
   "Luqman": {
     "surah": "Luqman",
@@ -456,10 +438,10 @@
     "white_pixels": 73,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "As-Sajdah": {
     "surah": "As-Sajdah",
@@ -472,11 +454,10 @@
     "symmetry": "0.0%",
     "patterns": [
       "heart",
-      "star",
-      "door"
+      "star"
     ],
-    "pattern_emojis": "❤️⭐🚪",
-    "interpretation": "المفتاح الكامل"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "Al-Ahzab": {
     "surah": "Al-Ahzab",
@@ -488,10 +469,11 @@
     "white_pixels": 125,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart",
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "Saba": {
     "surah": "Saba",
@@ -502,11 +484,9 @@
     "black_pixels": 80,
     "white_pixels": 112,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Fatir": {
     "surah": "Fatir",
@@ -518,10 +498,10 @@
     "white_pixels": 61,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "⭐",
+    "interpretation": "إرشاد وهداية"
   },
   "Ya-Sin": {
     "surah": "Ya-Sin",
@@ -532,11 +512,9 @@
     "black_pixels": 88,
     "white_pixels": 176,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "As-Saffat": {
     "surah": "As-Saffat",
@@ -547,11 +525,9 @@
     "black_pixels": 67,
     "white_pixels": 65,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Sad": {
     "surah": "Sad",
@@ -562,11 +538,9 @@
     "black_pixels": 71,
     "white_pixels": 103,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Az-Zumar": {
     "surah": "Az-Zumar",
@@ -578,10 +552,10 @@
     "white_pixels": 98,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Ghafir": {
     "surah": "Ghafir",
@@ -606,10 +580,10 @@
     "white_pixels": 74,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Ash-Shura": {
     "surah": "Ash-Shura",
@@ -621,10 +595,11 @@
     "white_pixels": 132,
     "symmetry": "0.0%",
     "patterns": [
+      "heart",
       "door"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️🚪",
+    "interpretation": "قلب مفتوح للهداية"
   },
   "Az-Zukhruf": {
     "surah": "Az-Zukhruf",
@@ -636,10 +611,11 @@
     "white_pixels": 107,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart",
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "Ad-Dukhan": {
     "surah": "Ad-Dukhan",
@@ -650,11 +626,9 @@
     "black_pixels": 52,
     "white_pixels": 104,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Jathiyah": {
     "surah": "Al-Jathiyah",
@@ -666,10 +640,10 @@
     "white_pixels": 63,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Ahqaf": {
     "surah": "Al-Ahqaf",
@@ -680,11 +654,9 @@
     "black_pixels": 121,
     "white_pixels": 167,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Muhammad": {
     "surah": "Muhammad",
@@ -696,10 +668,11 @@
     "white_pixels": 112,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart",
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "Al-Fath": {
     "surah": "Al-Fath",
@@ -724,10 +697,10 @@
     "white_pixels": 59,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Qaf": {
     "surah": "Qaf",
@@ -739,10 +712,11 @@
     "white_pixels": 158,
     "symmetry": "0.0%",
     "patterns": [
+      "heart",
       "door"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️🚪",
+    "interpretation": "قلب مفتوح للهداية"
   },
   "Adh-Dhariyat": {
     "surah": "Adh-Dhariyat",
@@ -753,11 +727,9 @@
     "black_pixels": 142,
     "white_pixels": 146,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "At-Tur": {
     "surah": "At-Tur",
@@ -768,11 +740,9 @@
     "black_pixels": 82,
     "white_pixels": 170,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "An-Najm": {
     "surah": "An-Najm",
@@ -783,12 +753,9 @@
     "black_pixels": 67,
     "white_pixels": 65,
     "symmetry": "0.0%",
-    "patterns": [
-      "star",
-      "door"
-    ],
-    "pattern_emojis": "⭐🚪",
-    "interpretation": "هداية وفتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Qamar": {
     "surah": "Al-Qamar",
@@ -799,11 +766,9 @@
     "black_pixels": 47,
     "white_pixels": 67,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Ar-Rahman": {
     "surah": "Ar-Rahman",
@@ -815,10 +780,10 @@
     "white_pixels": 140,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Waqi'ah": {
     "surah": "Al-Waqi'ah",
@@ -829,11 +794,9 @@
     "black_pixels": 68,
     "white_pixels": 196,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Hadid": {
     "surah": "Al-Hadid",
@@ -844,11 +807,9 @@
     "black_pixels": 67,
     "white_pixels": 71,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Mujadila": {
     "surah": "Al-Mujadila",
@@ -860,10 +821,10 @@
     "white_pixels": 94,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Hashr": {
     "surah": "Al-Hashr",
@@ -874,11 +835,9 @@
     "black_pixels": 55,
     "white_pixels": 65,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Mumtahanah": {
     "surah": "Al-Mumtahanah",
@@ -889,11 +848,9 @@
     "black_pixels": 40,
     "white_pixels": 80,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "As-Saff": {
     "surah": "As-Saff",
@@ -905,10 +862,10 @@
     "white_pixels": 60,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Jumu'ah": {
     "surah": "Al-Jumu'ah",
@@ -919,11 +876,9 @@
     "black_pixels": 108,
     "white_pixels": 174,
     "symmetry": "4.3%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Munafiqun": {
     "surah": "Al-Munafiqun",
@@ -936,10 +891,10 @@
     "symmetry": "0.0%",
     "patterns": [
       "heart",
-      "door"
+      "star"
     ],
-    "pattern_emojis": "❤️🚪",
-    "interpretation": "قلب مفتوح للهداية"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "At-Taghabun": {
     "surah": "At-Taghabun",
@@ -950,11 +905,9 @@
     "black_pixels": 98,
     "white_pixels": 196,
     "symmetry": "100.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "At-Talaq": {
     "surah": "At-Talaq",
@@ -966,10 +919,11 @@
     "white_pixels": 73,
     "symmetry": "0.0%",
     "patterns": [
+      "heart",
       "door"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️🚪",
+    "interpretation": "قلب مفتوح للهداية"
   },
   "At-Tahrim": {
     "surah": "At-Tahrim",
@@ -980,11 +934,9 @@
     "black_pixels": 85,
     "white_pixels": 125,
     "symmetry": "5.9%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Mulk": {
     "surah": "Al-Mulk",
@@ -996,10 +948,11 @@
     "white_pixels": 64,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart",
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "Al-Qalam": {
     "surah": "Al-Qalam",
@@ -1010,11 +963,9 @@
     "black_pixels": 45,
     "white_pixels": 105,
     "symmetry": "8.3%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Haqqah": {
     "surah": "Al-Haqqah",
@@ -1026,10 +977,10 @@
     "white_pixels": 145,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "⭐",
+    "interpretation": "إرشاد وهداية"
   },
   "Al-Ma'arij": {
     "surah": "Al-Ma'arij",
@@ -1040,11 +991,9 @@
     "black_pixels": 112,
     "white_pixels": 158,
     "symmetry": "4.5%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Nuh": {
     "surah": "Nuh",
@@ -1056,10 +1005,11 @@
     "white_pixels": 127,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart",
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "Al-Jinn": {
     "surah": "Al-Jinn",
@@ -1070,11 +1020,9 @@
     "black_pixels": 71,
     "white_pixels": 211,
     "symmetry": "21.7%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Muzzammil": {
     "surah": "Al-Muzzammil",
@@ -1085,11 +1033,9 @@
     "black_pixels": 72,
     "white_pixels": 78,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Muddaththir": {
     "surah": "Al-Muddaththir",
@@ -1100,11 +1046,9 @@
     "black_pixels": 96,
     "white_pixels": 138,
     "symmetry": "5.3%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Qiyamah": {
     "surah": "Al-Qiyamah",
@@ -1115,11 +1059,9 @@
     "black_pixels": 53,
     "white_pixels": 61,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Insan": {
     "surah": "Al-Insan",
@@ -1130,11 +1072,9 @@
     "black_pixels": 89,
     "white_pixels": 175,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Mursalat": {
     "surah": "Al-Mursalat",
@@ -1145,11 +1085,9 @@
     "black_pixels": 79,
     "white_pixels": 83,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "An-Naba": {
     "surah": "An-Naba",
@@ -1160,11 +1098,9 @@
     "black_pixels": 75,
     "white_pixels": 105,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "An-Nazi'at": {
     "surah": "An-Nazi'at",
@@ -1176,10 +1112,10 @@
     "white_pixels": 129,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Abasa": {
     "surah": "Abasa",
@@ -1204,10 +1140,10 @@
     "white_pixels": 97,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Infitar": {
     "surah": "Al-Infitar",
@@ -1219,10 +1155,11 @@
     "white_pixels": 159,
     "symmetry": "0.0%",
     "patterns": [
+      "heart",
       "door"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️🚪",
+    "interpretation": "قلب مفتوح للهداية"
   },
   "Al-Mutaffifin": {
     "surah": "Al-Mutaffifin",
@@ -1233,11 +1170,9 @@
     "black_pixels": 66,
     "white_pixels": 72,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Inshiqaq": {
     "surah": "Al-Inshiqaq",
@@ -1248,11 +1183,9 @@
     "black_pixels": 77,
     "white_pixels": 157,
     "symmetry": "10.5%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Buruj": {
     "surah": "Al-Buruj",
@@ -1263,11 +1196,9 @@
     "black_pixels": 137,
     "white_pixels": 139,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "At-Tariq": {
     "surah": "At-Tariq",
@@ -1279,10 +1210,11 @@
     "white_pixels": 73,
     "symmetry": "0.0%",
     "patterns": [
+      "heart",
       "door"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️🚪",
+    "interpretation": "قلب مفتوح للهداية"
   },
   "Al-A'la": {
     "surah": "Al-A'la",
@@ -1294,10 +1226,10 @@
     "white_pixels": 93,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "⭐",
+    "interpretation": "إرشاد وهداية"
   },
   "Al-Ghashiyah": {
     "surah": "Al-Ghashiyah",
@@ -1308,11 +1240,9 @@
     "black_pixels": 69,
     "white_pixels": 201,
     "symmetry": "22.7%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Fajr": {
     "surah": "Al-Fajr",
@@ -1324,10 +1254,11 @@
     "white_pixels": 132,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart",
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "Al-Balad": {
     "surah": "Al-Balad",
@@ -1338,11 +1269,9 @@
     "black_pixels": 45,
     "white_pixels": 69,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Ash-Shams": {
     "surah": "Ash-Shams",
@@ -1353,11 +1282,9 @@
     "black_pixels": 143,
     "white_pixels": 145,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Layl": {
     "surah": "Al-Layl",
@@ -1368,11 +1295,9 @@
     "black_pixels": 67,
     "white_pixels": 137,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Ad-Duha": {
     "surah": "Ad-Duha",
@@ -1383,11 +1308,9 @@
     "black_pixels": 102,
     "white_pixels": 102,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Ash-Sharh": {
     "surah": "Ash-Sharh",
@@ -1398,11 +1321,9 @@
     "black_pixels": 97,
     "white_pixels": 143,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "At-Tin": {
     "surah": "At-Tin",
@@ -1413,11 +1334,9 @@
     "black_pixels": 97,
     "white_pixels": 101,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Alaq": {
     "surah": "Al-Alaq",
@@ -1428,11 +1347,9 @@
     "black_pixels": 45,
     "white_pixels": 135,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Qadr": {
     "surah": "Al-Qadr",
@@ -1444,10 +1361,10 @@
     "white_pixels": 98,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "star"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "⭐",
+    "interpretation": "إرشاد وهداية"
   },
   "Al-Bayyinah": {
     "surah": "Al-Bayyinah",
@@ -1458,11 +1375,9 @@
     "black_pixels": 48,
     "white_pixels": 78,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Az-Zalzalah": {
     "surah": "Az-Zalzalah",
@@ -1474,10 +1389,10 @@
     "white_pixels": 139,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Adiyat": {
     "surah": "Al-Adiyat",
@@ -1488,11 +1403,9 @@
     "black_pixels": 35,
     "white_pixels": 79,
     "symmetry": "11.1%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Qari'ah": {
     "surah": "Al-Qari'ah",
@@ -1503,11 +1416,9 @@
     "black_pixels": 129,
     "white_pixels": 135,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "At-Takathur": {
     "surah": "At-Takathur",
@@ -1519,10 +1430,11 @@
     "white_pixels": 119,
     "symmetry": "0.0%",
     "patterns": [
+      "heart",
       "door"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️🚪",
+    "interpretation": "قلب مفتوح للهداية"
   },
   "Al-Asr": {
     "surah": "Al-Asr",
@@ -1534,11 +1446,10 @@
     "white_pixels": 138,
     "symmetry": "0.0%",
     "patterns": [
-      "star",
-      "door"
+      "star"
     ],
-    "pattern_emojis": "⭐🚪",
-    "interpretation": "هداية وفتح"
+    "pattern_emojis": "⭐",
+    "interpretation": "إرشاد وهداية"
   },
   "Al-Humazah": {
     "surah": "Al-Humazah",
@@ -1549,11 +1460,9 @@
     "black_pixels": 68,
     "white_pixels": 202,
     "symmetry": "22.7%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Fil": {
     "surah": "Al-Fil",
@@ -1565,10 +1474,10 @@
     "white_pixels": 59,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Quraysh": {
     "surah": "Quraysh",
@@ -1580,10 +1489,10 @@
     "white_pixels": 141,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Ma'un": {
     "surah": "Al-Ma'un",
@@ -1594,11 +1503,9 @@
     "black_pixels": 114,
     "white_pixels": 114,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Kawthar": {
     "surah": "Al-Kawthar",
@@ -1609,11 +1516,9 @@
     "black_pixels": 52,
     "white_pixels": 104,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Kafirun": {
     "surah": "Al-Kafirun",
@@ -1624,11 +1529,9 @@
     "black_pixels": 147,
     "white_pixels": 147,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "An-Nasr": {
     "surah": "An-Nasr",
@@ -1639,11 +1542,9 @@
     "black_pixels": 80,
     "white_pixels": 112,
     "symmetry": "0.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   },
   "Al-Masad": {
     "surah": "Al-Masad",
@@ -1655,10 +1556,10 @@
     "white_pixels": 56,
     "symmetry": "0.0%",
     "patterns": [
-      "door"
+      "heart"
     ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "pattern_emojis": "❤️",
+    "interpretation": "جوهر السورة - رحمة ومودة"
   },
   "Al-Ikhlas": {
     "surah": "Al-Ikhlas",
@@ -1684,10 +1585,10 @@
     "symmetry": "0.0%",
     "patterns": [
       "heart",
-      "door"
+      "star"
     ],
-    "pattern_emojis": "❤️🚪",
-    "interpretation": "قلب مفتوح للهداية"
+    "pattern_emojis": "❤️⭐",
+    "interpretation": "قلب مهتدي"
   },
   "An-Nas": {
     "surah": "An-Nas",
@@ -1698,10 +1599,8 @@
     "black_pixels": 101,
     "white_pixels": 145,
     "symmetry": "5.0%",
-    "patterns": [
-      "door"
-    ],
-    "pattern_emojis": "🚪",
-    "interpretation": "مدخل للمعرفة أو فتح"
+    "patterns": [],
+    "pattern_emojis": "",
+    "interpretation": "مفتاح سري"
   }
 }
