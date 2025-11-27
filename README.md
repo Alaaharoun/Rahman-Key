@@ -122,6 +122,55 @@ This experiment does not imply that the Quran is "codes", but rather reveals —
 
 ---
 
+## 📏 Methodology Standards | معايير المنهجية
+
+**English:**  
+This project strictly distinguishes between **algorithmic results** (measured by code, reproducible, quantifiable) and **visual interpretations** (human recognition, subjective observations).
+
+**العربية:**  
+هذا المشروع يميز بصرامة بين **النتائج الخوارزمية** (مقاسة بالكود، قابلة للتكرار، قابلة للقياس) و**التأويلات البصرية** (التعرف البشري، ملاحظات ذاتية).
+
+### ✅ Algorithmic Results | النتائج الخوارزمية
+
+**English:**  
+These are **mathematically verified** and **100% reproducible**:
+
+**العربية:**  
+هذه **متحقق منها رياضياً** و**100% قابلة للتكرار**:
+
+| Result | Verification | Status |
+|--------|-------------|--------|
+| **31×6 key generates heart patterns in ~95.6% of Surahs** | ✅ Verified in `descriptions.json`: 109 of 114 Surahs classified as Grade 1 or 2 (heart patterns) | **Confirmed** |
+| **29 disconnected letter groups → 29 different matrices** | ✅ Deterministic algorithm: different letter sequences = different matrices | **Confirmed** |
+| **Algorithm is deterministic, reproducible, scalable** | ✅ Open source code, no randomness, same input = same output | **Confirmed** |
+| **The 11-Verse Cluster: 5 Surahs with identical structure** | ✅ All 5 have: 11 verses, 20.4% symmetry, Grade 2, vertical line symbol | **Confirmed** |
+
+### ⚠️ Visual Interpretations | التأويلات البصرية
+
+**English:**  
+These are **subjective observations** and **not part of the algorithmic methodology**:
+
+**العربية:**  
+هذه **ملاحظات ذاتية** و**ليست جزءاً من المنهجية الخوارزمية**:
+
+| Observation | Type | Status |
+|------------|------|--------|
+| "Surah Ar-Rahman shows 5 patterns (heart, star, door, key, crescent) in 19×6" | ⚠️ Visual interpretation | **Not algorithmically verified** |
+| "Al-Fatiha contains the word 'HU' (هو)" | ⚠️ Visual interpretation | **Not algorithmically verified** |
+| "Al-Insan shows prostrating human + two cups" | ⚠️ Visual interpretation | **Not algorithmically verified** |
+
+**Note:** Visual interpretations are valuable for exploration but should be clearly labeled as such. They are stored in `VISUAL_NOTES.md` or marked in analysis files.
+
+### 📊 What is Algorithmic vs. Interpretive? | ما هو الخوارزمي مقابل التأويلي؟
+
+| Type | Definition | Example |
+|------|------------|---------|
+| ✅ **Algorithmic** | Measured by code, reproducible, quantifiable | "Symmetry = 94.2%", "Grade 2 pattern detected" |
+| 🔍 **Interpretive** | Human visual recognition, subjective | "Resembles a prostrating human", "Looks like a key" |
+| 📌 **Rule** | Only algorithmic claims go in `descriptions.json`.<br>Interpretive notes go in `VISUAL_NOTES.md` (clearly labeled). | |
+
+---
+
 ## 🔬 Methodology | المنهجية
 
 **English - For each Surah:**
@@ -521,12 +570,24 @@ Each image is named: `001_Al-Fatiha.png`, `002_Al-Baqarah.png`, ..., `114_An-Nas
 
 Pattern descriptions are stored in `descriptions.json`.
 
+**Key Findings (Algorithmically Verified):**
+- ✅ **95.6% of Surahs (109 of 114)** show heart patterns (Grade 1 or 2)
+- ✅ **5 Surahs with 11 verses** form an identical structural cluster (same symmetry, same grade, same symbol)
+- ✅ **29 disconnected letter groups** produce 29 distinct matrices (100% reproducible)
+- ✅ **Algorithm is deterministic** — same input = same output, every time
+
 **العربية:**  
 تمت معالجة جميع السور الـ 114 و"قلوبها" الرقمية متاحة في مجلد `images/`.
 
 كل صورة مسماة: `001_Al-Fatiha.png`, `002_Al-Baqarah.png`, ..., `114_An-Nas.png`
 
 أوصاف الأنماط مخزنة في `descriptions.json`.
+
+**النتائج الرئيسية (متحقق منها خوارزمياً):**
+- ✅ **95.6% من السور (109 من 114)** تظهر أنماط قلب (Grade 1 أو 2)
+- ✅ **5 سور بـ 11 آية** تشكل مجموعة بنيوية متطابقة (نفس التناظر، نفس الدرجة، نفس الرمز)
+- ✅ **29 مجموعة حروف مقطعة** تنتج 29 مصفوفة متميزة (100% قابلة للتكرار)
+- ✅ **الخوارزمية حتمية** — نفس المدخل = نفس المخرج، في كل مرة
 
 ---
 
