@@ -36,3 +36,13 @@ experiments/SECRET_KEYS_EXPLANATION.md
 # Publication strategy (private, not for public release)
 PUBLICATION_STRATEGY.md
 
+# Rotating animation experiment (private, testing phase)
+experiments/rotating_patterns_animation.py
+experiments_output/rotating_animations/
+experiments/experiments_output/rotating_patterns_animation/
+
+# AI Sees World as Emojis - Private repository (will be moved to new repo)
+# الذكاء الاصطناعي يرى العالم كإيموجي - مستودع خاص (سيُنقل لمستودع جديد)
+experiments/experiments_output/rotating_patterns_animation/*
+!experiments/experiments_output/rotating_patterns_animation/.gitkeep
+
