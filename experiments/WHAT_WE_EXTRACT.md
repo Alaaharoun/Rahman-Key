@@ -27,6 +27,11 @@ This document provides a clear summary of what we extract from each key in the R
 
 ### 1. 31×6 Master Key | المفتاح الرئيسي 31×6
 
+**How We Extracted It:**
+- **Discovery:** Ar-Rahman repeats verse 31 times → Convert 1→31 to binary → 31×6 matrix → Heart pattern
+- **Method:** Sequence 1→verse_count → repeat to 31 rows → 6-bit binary → 31×6 matrix
+- **See:** [`HOW_WE_EXTRACTED_THE_KEYS.md`](HOW_WE_EXTRACTED_THE_KEYS.md) for details
+
 **What We Extract:**
 
 **Algorithmic:**

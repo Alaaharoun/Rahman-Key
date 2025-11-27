@@ -84,6 +84,19 @@ General view of Quranic structure — shows the overall pattern across all Surah
 **English:**  
 **Source:** 29 Quranic Surahs that begin with disconnected letters (الم، الر، يس، إلخ)
 
+**How We Extracted It:**
+- Applied the same 31×6 methodology to disconnected letter groups
+- Convert letters to numerical values (ABJAD system) → Generate sequence → 31×6 matrix
+- **See:** [`HOW_WE_EXTRACTED_THE_KEYS.md`](HOW_WE_EXTRACTED_THE_KEYS.md) for details
+
+**العربية:**  
+**المصدر:** 29 سورة قرآنية تبدأ بحروف مقطعة (الم، الر، يس، إلخ)
+
+**كيف استخرجناه:**
+- طبقنا نفس منهجية 31×6 على مجموعات الحروف المقطعة
+- حوّل الحروف إلى قيم عددية (نظام أبجد) → أنشئ تسلسلاً → مصفوفة 31×6
+- **انظر:** [`HOW_WE_EXTRACTED_THE_KEYS.md`](HOW_WE_EXTRACTED_THE_KEYS.md) للتفاصيل
+
 **What We Extract:**
 - ✅ **100% heart patterns** — All 14 letter groups produce hearts
 - ✅ **Letter-specific patterns** — Each letter group has unique characteristics
