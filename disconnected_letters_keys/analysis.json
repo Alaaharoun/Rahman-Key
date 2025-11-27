@@ -1,0 +1,325 @@
+{
+  "الم": {
+    "letters": "الم",
+    "surahs": [
+      "Al-Baqarah",
+      "Ali 'Imran",
+      "Ta-Ha",
+      "Ash-Shu'ara",
+      "Ar-Rum",
+      "As-Sajdah"
+    ],
+    "sequence": [
+      0,
+      30,
+      40,
+      0,
+      30,
+      40,
+      0,
+      30,
+      40,
+      0
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.7849462365591398,
+    "surah_count": 6
+  },
+  "الر": {
+    "letters": "الر",
+    "surahs": [
+      "Yunus",
+      "Hud",
+      "Yusuf",
+      "Ibrahim",
+      "Al-Hijr",
+      "Ar-Ra'd"
+    ],
+    "sequence": [
+      0,
+      30,
+      8,
+      0,
+      30,
+      8,
+      0,
+      30,
+      8,
+      0
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.8924731182795699,
+    "surah_count": 6
+  },
+  "المص": {
+    "letters": "المص",
+    "surahs": [
+      "Al-A'raf"
+    ],
+    "sequence": [
+      0,
+      30,
+      40,
+      26,
+      0,
+      30,
+      40,
+      26,
+      0,
+      30
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.7526881720430108,
+    "surah_count": 1
+  },
+  "طسم": {
+    "letters": "طسم",
+    "surahs": [
+      "Ash-Shu'ara",
+      "Al-Qasas"
+    ],
+    "sequence": [
+      9,
+      60,
+      40,
+      9,
+      60,
+      40,
+      9,
+      60,
+      40,
+      9
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.3333333333333333,
+    "surah_count": 2
+  },
+  "طه": {
+    "letters": "طه",
+    "surahs": [
+      "Ta-Ha"
+    ],
+    "sequence": [
+      9,
+      5,
+      9,
+      5,
+      9,
+      5,
+      9,
+      5,
+      9,
+      5
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.3333333333333333,
+    "surah_count": 1
+  },
+  "يس": {
+    "letters": "يس",
+    "surahs": [
+      "Ya-Sin"
+    ],
+    "sequence": [
+      10,
+      60,
+      10,
+      60,
+      10,
+      60,
+      10,
+      60,
+      10,
+      60
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.3333333333333333,
+    "surah_count": 1
+  },
+  "ص": {
+    "letters": "ص",
+    "surahs": [
+      "Sad"
+    ],
+    "sequence": [
+      26,
+      26,
+      26,
+      26,
+      26,
+      26,
+      26,
+      26,
+      26,
+      26
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.6666666666666666,
+    "surah_count": 1
+  },
+  "حم": {
+    "letters": "حم",
+    "surahs": [
+      "Fussilat",
+      "Az-Zukhruf",
+      "Ad-Dukhan",
+      "Al-Jathiyah",
+      "Al-Ahqaf"
+    ],
+    "sequence": [
+      8,
+      40,
+      8,
+      40,
+      8,
+      40,
+      8,
+      40,
+      8,
+      40
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.5053763440860215,
+    "surah_count": 5
+  },
+  "ق": {
+    "letters": "ق",
+    "surahs": [
+      "Qaf"
+    ],
+    "sequence": [
+      36,
+      36,
+      36,
+      36,
+      36,
+      36,
+      36,
+      36,
+      36,
+      36
+    ],
+    "pattern": "Heart + with vertical line",
+    "is_heart": true,
+    "symmetry": 0.3333333333333333,
+    "surah_count": 1
+  },
+  "ن": {
+    "letters": "ن",
+    "surahs": [
+      "Al-Qalam"
+    ],
+    "sequence": [
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.6666666666666666,
+    "surah_count": 1
+  },
+  "كهيعص": {
+    "letters": "كهيعص",
+    "surahs": [
+      "Maryam"
+    ],
+    "sequence": [
+      20,
+      5,
+      10,
+      6,
+      26,
+      20,
+      5,
+      10,
+      6,
+      26
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.3978494623655914,
+    "surah_count": 1
+  },
+  "طس": {
+    "letters": "طس",
+    "surahs": [
+      "An-Naml"
+    ],
+    "sequence": [
+      9,
+      60,
+      9,
+      60,
+      9,
+      60,
+      9,
+      60,
+      9,
+      60
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.3333333333333333,
+    "surah_count": 1
+  },
+  "المر": {
+    "letters": "المر",
+    "surahs": [
+      "Ar-Ra'd"
+    ],
+    "sequence": [
+      0,
+      30,
+      40,
+      8,
+      0,
+      30,
+      40,
+      8,
+      0,
+      30
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.7526881720430108,
+    "surah_count": 1
+  },
+  "حم عسق": {
+    "letters": "حم عسق",
+    "surahs": [
+      "Ash-Shura"
+    ],
+    "sequence": [
+      8,
+      40,
+      0,
+      6,
+      60,
+      36,
+      8,
+      40,
+      0,
+      6
+    ],
+    "pattern": "Heart",
+    "is_heart": true,
+    "symmetry": 0.5053763440860215,
+    "surah_count": 1
+  }
+}
