@@ -54,6 +54,11 @@ This document provides a clear summary of what we extract from each key in the R
 
 ### 2. 19×6 Surah Key | مفتاح السورة 19×6
 
+**How We Extracted It:**
+- **Discovery:** Hypothesis that each Surah has unique key → Calculate: `(surah_num × ayah_count × revelation_order) % 256`
+- **Method:** Generate variable matrix (19-31 rows) based on key → Pattern detection
+- **See:** [`HOW_WE_EXTRACTED_THE_KEYS.md`](HOW_WE_EXTRACTED_THE_KEYS.md) for details
+
 **What We Extract:**
 
 **Algorithmic:**

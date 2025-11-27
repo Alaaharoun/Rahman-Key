@@ -137,6 +137,19 @@ Understanding the structure of disconnected letters — reveals they are mathema
 **English:**  
 **Source:** Each Surah's unique parameters (surah_number × ayah_count × revelation_order)
 
+**How We Extracted It:**
+- Calculate unique seed: `(surah_number × ayah_count × revelation_order) % 64`
+- Generate 19 rows using seed → 6-bit binary → 19×6 matrix
+- **See:** [`HOW_WE_EXTRACTED_THE_KEYS.md`](HOW_WE_EXTRACTED_THE_KEYS.md) for details
+
+**العربية:**  
+**المصدر:** معاملات فريدة لكل سورة (رقم_السورة × عدد_الآيات × ترتيب_النزول)
+
+**كيف استخرجناه:**
+- احسب بذرة فريدة: `(رقم_السورة × عدد_الآيات × ترتيب_النزول) % 64`
+- أنشئ 19 صفاً باستخدام البذرة → ثنائي 6 بتات → مصفوفة 19×6
+- **انظر:** [`HOW_WE_EXTRACTED_THE_KEYS.md`](HOW_WE_EXTRACTED_THE_KEYS.md) للتفاصيل
+
 **What We Extract:**
 - ⚠️ **Surah-specific patterns** — Different from 31×6 patterns
 - ⚠️ **Pattern diversity** — More varied patterns than master key
