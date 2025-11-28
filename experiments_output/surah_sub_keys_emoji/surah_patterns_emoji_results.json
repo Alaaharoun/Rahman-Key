@@ -1,0 +1,114 @@
+{
+  "Al-Fatiha": {
+    "surah": "Al-Fatiha",
+    "surah_num": 1,
+    "key": 7,
+    "emoji_path": "experiments_output\\surah_sub_keys_emoji\\001_Al-Fatiha_emoji.png",
+    "similarity": 0.0,
+    "coverage": 100.0,
+    "is_colored": true,
+    "color_diff": 184.0,
+    "unique_colors": 9,
+    "emoji_color_counts": {
+      "white": 567,
+      "brown": 1,
+      "pink": 6,
+      "navy": 3,
+      "gray": 1,
+      "white_off": 10,
+      "white_light_gray": 6,
+      "white_cool": 6,
+      "learned_0": 96
+    }
+  },
+  "Al-Baqarah": {
+    "surah": "Al-Baqarah",
+    "surah_num": 2,
+    "key": 67,
+    "emoji_path": "experiments_output\\surah_sub_keys_emoji\\002_Al-Baqarah_emoji.png",
+    "similarity": 0.0,
+    "coverage": 100.0,
+    "is_colored": true,
+    "color_diff": 184.0,
+    "unique_colors": 10,
+    "emoji_color_counts": {
+      "white": 263,
+      "brown": 3,
+      "pink": 6,
+      "navy": 1,
+      "gray": 12,
+      "white_off": 22,
+      "white_cream": 1,
+      "white_light_gray": 32,
+      "white_cool": 14,
+      "learned_0": 342
+    }
+  },
+  "Ali_Imran": {
+    "surah": "Ali_Imran",
+    "surah_num": 3,
+    "key": 215,
+    "emoji_path": "experiments_output\\surah_sub_keys_emoji\\003_Ali_Imran_emoji.png",
+    "similarity": 0.0,
+    "coverage": 100.0,
+    "is_colored": true,
+    "color_diff": 184.0,
+    "unique_colors": 8,
+    "emoji_color_counts": {
+      "white": 156,
+      "pink": 18,
+      "navy": 11,
+      "white_off": 15,
+      "white_light_gray": 23,
+      "white_warm": 2,
+      "white_cool": 15,
+      "learned_1": 456
+    }
+  },
+  "An-Nisa": {
+    "surah": "An-Nisa",
+    "surah_num": 4,
+    "key": 0,
+    "emoji_path": "experiments_output\\surah_sub_keys_emoji\\004_An-Nisa_emoji.png",
+    "similarity": 0.0,
+    "coverage": 100.0,
+    "is_colored": true,
+    "color_diff": 184.0,
+    "unique_colors": 10,
+    "emoji_color_counts": {
+      "white": 264,
+      "pink": 18,
+      "navy": 7,
+      "gray": 6,
+      "white_off": 16,
+      "white_cream": 1,
+      "white_light_gray": 22,
+      "white_warm": 3,
+      "white_cool": 23,
+      "learned_0": 336
+    }
+  },
+  "Al-Maidah": {
+    "surah": "Al-Maidah",
+    "surah_num": 5,
+    "key": 200,
+    "emoji_path": "experiments_output\\surah_sub_keys_emoji\\005_Al-Maidah_emoji.png",
+    "similarity": 0.0,
+    "coverage": 100.0,
+    "is_colored": true,
+    "color_diff": 184.0,
+    "unique_colors": 10,
+    "emoji_color_counts": {
+      "white": 225,
+      "pink": 6,
+      "navy": 3,
+      "gray": 25,
+      "white_off": 5,
+      "white_cream": 1,
+      "white_light_gray": 13,
+      "white_warm": 2,
+      "white_cool": 26,
+      "learned_0": 390
+    }
+  }
+}

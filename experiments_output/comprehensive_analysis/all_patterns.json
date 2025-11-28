@@ -1,0 +1,13 @@
+[
+  {
+    "surah_name": "Al-Fatiha",
+    "verse_count": 7,
+    "patterns": [
+      "Star",
+      "Vertical Structures",
+      "Divided"
+    ],
+    "symmetry": 0.22043010752688172,
+    "heart_confidence": 0,
+    "details": {
+      "heart": 
